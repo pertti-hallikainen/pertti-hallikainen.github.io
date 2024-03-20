@@ -7,11 +7,11 @@ summaryLength = 0
 
 
 [Params]
-  homeTitle = "Notes & reviews" # Set a different text for the header on the home page
+  homeTitle = "Notes & Reviews" # Set a different text for the header on the home page
   subtitle = "Games, TV, technology etc"
   mainSections = ["post","posts"]
   logo = "img/SelfPortrait01.png" # Expecting square dimensions
-  favicon = "favicon.ico"
+  favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = false
@@ -32,7 +32,7 @@ summaryLength = 0
 [Author]
   # full list of supported socials: https://github.com/halogenica/beautifulhugo/blob/master/data/beautifulhugo/social.toml
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  #name = "Pertti Hallikainen"
+  name = "Pertti Hallikainen"
   # website = "yourwebsite.com"
   #email = "pertti.hallikainen@outlook.com"
   # facebook = "username"

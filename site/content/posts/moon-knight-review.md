@@ -12,5 +12,5 @@ After seeing Ex Machina (2014), I've really liked Oscar Isaac in every role I've
 
 Moon Knight (season 1) is a humorous superhero adventure. It presents a world where the Egyptian gods and their mythology is literally real (the same way as Asgard was in Thor) and presents a psychologically loaded origin story for the antihero Moon Knight.
 
-Certainly entertaining throughout the 6 episode runtime. Bonus points for the charismatic performance of Ethan Hawke.
+Certainly entertaining throughout the 6 episode runtime. Ethan Hawke was also great as the charismatic cult leader Arthur Harrow.
 
