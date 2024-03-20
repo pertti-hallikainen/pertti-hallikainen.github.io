@@ -6,5 +6,5 @@ _site/
 .bundle/
 vendor/
 # Ignore build directory
-.hugo_build.lock
+site/.hugo_build.lock
 site/public/
