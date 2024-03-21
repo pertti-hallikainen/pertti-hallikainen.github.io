@@ -34,10 +34,11 @@ summaryLength = 0
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Pertti Hallikainen"
   # website = "yourwebsite.com"
-  #email = "pertti.hallikainen@outlook.com"
+  email = "pertti.hallikainen@outlook.com"
   # facebook = "username"
   github = "pertti-hallikainen"
   twitter = "Prtthllknn"
+  linkedin = "pertti-hallikainen-33b1a210b"
 
 
 
