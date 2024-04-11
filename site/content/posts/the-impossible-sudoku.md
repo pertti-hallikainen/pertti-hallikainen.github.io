@@ -1,7 +1,7 @@
 +++
 title = 'The Impossible Sudoku'
 subtitle = 'Literally impossible'
-summary = 'Teach kids that not all problems have solutions and how they can prove it.'
+summary = 'Teach kids that not all problems have solutions - and how to recognize those that don't.'
 tags = ['note']
 date = 2024-03-25T12:18:51+02:00
 draft = false
@@ -23,4 +23,4 @@ Here are a couple more criticisms of the Board from past years that I could find
 
 While the students are asked to analyze given materials and support their findings and viewpoint, I think the materials should either be capital C-orrect, or then they should be misleading, ambiguous or controversial on purpose. I think they already do this pretty well. Maybe I should do a proper review of the exams to see what they are like these days.
 
-I wouldn't mind if they included one impossible problem in the exam every now and then, if the joke was you would only score points if you could correctly prove it was impossible.
+I wouldn't mind if they included one impossible problem in the exam every now and then, with the joke that you could only score points if you correctly showed proof it was impossible. It's a valuable skill after all, one that should already be covered by the syllabus. A tradition like this would also allow the Board to save face whenever a problem turns out a little too difficult.
