@@ -2,6 +2,7 @@
 title: About me
 subtitle: This is where you get to know who I am as a person
 comments: false
+translationKey: 'about'
 ---
 
 Pertti Hallikainen is my name. In Finnish tradition, 'Pertti' is the name given to boys with the hope that they would once grow up to become engineers. 87% of these boys do become engineers, whereas boys without the name only make it 23% of the time. In addition to being currently unemployed, I have the following qualities:

@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+# baseURL = 'https://example.org/'
 DefaultContentLanguage = "en"
 languageCode = 'en-us'
 title = 'Pertti Hallikainen'
@@ -12,7 +12,7 @@ summaryLength = 0
   mainSections = ["post","posts"]
   logo = "img/SelfPortrait01.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
+  #dateFormat = "January 2, 2006"
   commit = false
   rss = false
 #  comments = true
@@ -26,6 +26,30 @@ summaryLength = 0
 
 
 # workaround for https://github.com/halogenica/beautifulhugo/issues/480
+
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en] 
+    contentDir = "content/en" # English
+    languageName = 'EN 🇬🇧'
+    weight = 1
+
+
+  [languages.fi]
+    contentDir = "content/fi" # Suomi
+    languageCode = 'fi-FI'
+    languageName = 'FI 🇫🇮'
+    weight = 2
+    
+    #title = 'otsikko suomeksi'
+    
+    [languages.fi.params]
+      homeTitle = 'Kirjoituksia'
+      subtitle = ''
+      #dateFormat = "1.2.2006"
 
 
 
@@ -42,17 +66,20 @@ summaryLength = 0
 
 
 
-[[menu.main]]
+  [[menu.main]]
     name = "Blog"
     url = ""
     weight = 1
 
-[[menu.main]]
+  [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
+    weight = 10
 
-[[menu.main]]
+  [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 20
+
+
+

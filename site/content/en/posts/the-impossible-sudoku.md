@@ -1,7 +1,7 @@
 +++
 title = 'The Impossible Sudoku'
 subtitle = 'Literally impossible'
-summary = 'Teach kids that not all problems have solutions - and how to recognize those that don't.'
+summary = 'Teach kids that not all problems have solutions - and how to recognize those that don&#39;t.'
 tags = ['note']
 date = 2024-03-25T12:18:51+02:00
 draft = false
