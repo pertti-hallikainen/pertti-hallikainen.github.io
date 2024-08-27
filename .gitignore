@@ -8,3 +8,4 @@ vendor/
 # Ignore build directory
 site/.hugo_build.lock
 site/public/
+deleted/

@@ -7,8 +7,8 @@ summaryLength = 0
 
 
 [Params]
-  homeTitle = "Notes & Reviews" # Set a different text for the header on the home page
-  subtitle = "Games, TV, technology etc"
+  homeTitle = "Notes & Stuff" # Set a different text for the header on the home page
+  #subtitle = "Games, TV, technology etc"
   mainSections = ["post","posts"]
   logo = "img/SelfPortrait01.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -34,14 +34,16 @@ defaultContentLanguageInSubdir = true
 [languages]
   [languages.en] 
     contentDir = "content/en" # English
-    languageName = 'EN 🇬🇧'
+    #languageName = 'EN 🇬🇧'
+    languageName = 'IN ENGLISH'
     weight = 1
 
 
   [languages.fi]
     contentDir = "content/fi" # Suomi
     languageCode = 'fi-FI'
-    languageName = 'FI 🇫🇮'
+    #languageName = 'FI 🇫🇮'
+    languageName = 'SUOMEKSI'
     weight = 2
     
     #title = 'otsikko suomeksi'

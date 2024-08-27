@@ -1,8 +1,8 @@
 +++
 title = 'Mahdoton Sudoku'
-subtitle = 'Aivan mahdoton'
-summary = 'Koulussa pitäisi opettaa ettei kaikkiin ongelmiin ole ratkaisuja - ja miten erottaa mahdottomat muiden joukosta.'
-tags = ['note', 'kotimaa']
+subtitle = ''
+summary = 'Koulussa pitäisi opettaa ettei kaikkiin ongelmiin ole ratkaisuja - ja miten löytää mahdottomat ratkaistavissa olevien joukosta.'
+tags = ['koulu', 'yo-kirjoitukset']
 date = 2024-03-25T12:18:51+02:00
 draft = false
 +++

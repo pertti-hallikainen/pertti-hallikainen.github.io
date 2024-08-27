@@ -12,7 +12,7 @@
 - id: translationsSeparator
   translation: ", "
 - id: readMore
-  translation: "Lisää"
+  translation: "Lue"
 - id: olderPosts
   translation: "Vanhempia kirjoituksia"
 - id: newerPosts
