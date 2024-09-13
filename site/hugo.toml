@@ -23,6 +23,7 @@ summaryLength = 0
   delayDisqus = true
 #  showRelatedPosts = true
   hideAuthor = true
+  custom_css = ["css/custom.css"]
 
 
 # workaround for https://github.com/halogenica/beautifulhugo/issues/480

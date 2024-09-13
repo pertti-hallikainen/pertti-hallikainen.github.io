@@ -1,7 +1,7 @@
 +++
 title = 'Making the blog bilangual'
 subtitle = ''
-summary = 'Tecnically doable, but translations take time.'
+summary = 'Voit vaihtaa kieltä sivun oikeasta yläkulmasta.'
 tags = ['dev-diary']
 date = 2024-04-16T12:18:51+02:00
 draft = false

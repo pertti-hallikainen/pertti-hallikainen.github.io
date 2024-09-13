@@ -1,0 +1,7 @@
+.single h2 {
+    margin-top: 40px;
+  }
+
+.single h2:first-of-type {
+  margin-top:20px;
+}

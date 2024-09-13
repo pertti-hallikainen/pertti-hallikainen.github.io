@@ -15,11 +15,11 @@ My name is Pertti. I've been writing this page for a while now. This is the shor
 - I've got a master's degree in physics.
 - Youtube and twitch.tv are my most watched video streaming sites.
 - I won the 1st place trophy from a Magic the Gathering pre-release event in Helsinki back in 2018. I enjoy strategy games and card games.
-- I've done volunteer work, but not enough.
-- I'm very much interested in game theory, system theory and related topics, for example when applied in the study of climate change or when assessing the societal impact of artificial intelligence. I've come to learn there are commonalities between CBT-therapy and stoic philosophy. I'm also interested in matters related to seeing, noticing, being seen and wide applications of empathy.
+- I've done volunteer work, but not enough to really boast about it.
+- I'm very much interested in game theory, system theory and related topics, for example when applied in the study of climate change or when assessing the societal impact of artificial intelligence. I've come to learn there are commonalities between CBT-therapy and stoic philosophy. I'm also interested in matters related to seeing, noticing, being seen and applications of empathy.
 
 
-If there's anything else you would like to know about me, I'm your guy to ask.
+If there's anything else you would like to know about me, I'm your guy to ask. You can find my contact information & social links at the bottom of the page.
 
 
 ## Professional history
@@ -35,4 +35,4 @@ I've been a member of the Finnish Green Party since 2011. I was a candidate in t
 
 My political views are left leaning, with a strong interest towards softening the transition from a fossil fuel powered economy towards a sustainable society based on more efficient consumption of natural resources and powered by clean, renewable energy. Tampere is an excellent city for families both with or without children, welcoming to refugees and immigrants and safe for everyone. The city is going to continue seeing some of the fastest growth in all of Finland. Managing this growth responsibly is going to be the biggest challenge the new city council will face in the immediate future.
 
-For this site I am going to write about local politics and highlight some stories from further away. If you find any of these topics interesting, I hope you take the address for later use. Writing is purposeful.
+On this site I am going to write about local politics and highlight some stories from further away. If you find any of these topics interesting, I hope you take the address for later use. Writing is purposeful.
