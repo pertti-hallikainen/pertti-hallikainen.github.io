@@ -1,0 +1,26 @@
++++
+title = 'perussuomalaisuudesta'
+subtitle = ''
+summary = ''
+tags = ['politik', 'maahanmuutto', 'antirasismi']
+date = 2024-09-29T12:18:51+02:00
+draft = false
++++
+
+Perussuomalaisten politiikkaa määrittää haitallisen kapea kuva suomalaisuudesta uhanalaisena ja suojelun tarpeessa olevana etnisenä identiteettinä, minkä seurauksena Suomesta pitää tehdä entistä pienempi, heikompi ja sisäänpäinkääntyvämpi kansakunta. Traagisesti he tuhoavat sen, mitä sanovat pitävänsä kaikkein arvokkaimpana.
+
+Persuille tärkeät rasismi ja islaminvastaisuus ovat omiaan synnyttämään vihaa, turvattomuutta ja väkivaltarikoksia. Suomessa on uskonnonvapaus. Uskonnollisilla yhteisöillä on oikeus kokoontua ja rakentaa vaikkapa synagogia tai moskeijoita. Uskontoon tai kulttuuriin voi kuulua tunnistettavissa oleva pukeutuminen, rukoilu ja vaikkapa ruokavalion rajoituksia. Kulttuurien väliseen dialogiin ei tarvita teräasetta. Suomesta ei minun mielestäni pidä yrittää tehdä monokulttuurista valtiota. 
+
+Perussuomalaiset ovat tästä tietenkin eri mieltä. He eivät halua suomalaista kulttuuria suojellakseen kieltää muita kulttuureja, ovathan he realisteja, mutta samaan lopputulokseen he pääsevät maahanmuuttoa hallitsemalla ja pitämällä vähemmistöt marginaalissa, aivan kaikessa päätöksenteossa. Suomi suomalaisille, siksi rasismi. Samalla he ylläpitävät puheillaan ja teoillaan vihan, pelon ja katkeruuden kulttuuria. Suomi jossa kaikkia vituttaa.
+
+Läheinen yhteistyö kristillisdemokraattien kanssa paljastaa toiminnan uskonnollisen perusvireen. Puolueessa on mukana myös ääriuskonnollisia ihmiskäsityksiä esimerkiksi homoseksuaalisuuden syntisyydestä. Nämä eivät ole kaukana islamista, jota kritisoidaan.
+ 
+Perussuomalainen ihmiskuva sisältää ajatuksen, että ihminen on hyvä, riittävä ja arvokas vain jos tämä tuottaa yhteiskunnalle lisäarvoa, eli on nettoveronmaksaja. Tämä puhtaan materialistinen arvottaminen näkyy perussuomalaisten retoriikassa maahanmuuttajista ja pakolaisista puhuttaessa. Onneksi sama kieli ei ole käytössä eläkeläisistä, työkyvyttömistä, vammaisista ja muista sosiaaliturvan varassa elävistä ihmisryhmistä puhuttaessa. Perussuomalaiset on oikeistolainen puolue. Moni persuja äänestänyt työtätekevä suomalainen vihaa maahanmuuttajia enemmän kuin arvostaa omia oikeuksiaan, esimerkiksi lakko-oikeuttaan. Paikallinen sopiminen ja vientivetoinen palkkamalli sopivat persuille.
+
+Muut puolueet sallivat pitkään asiantilan jossa perussuomalaisilla oli maahanmuuttopoliittisen keskustelun täysomistajuus. Erityisesti maahanmuuton volyymin ja siitä aiheutuneiden kustannusten suhteen on edelleen vaikea löytää suoraa mielipidettä. Asia on vaikea. On hyvä että puhutaan pelisäännöistä ja että luottamus väestöryhmien välillä ei rikkoudu tämän enempää. Tässä on poliittisilla päättäjillä ja kansalaisyhteiskunnallakin tärkeä rooli ja paljon tehtävää.
+
+On lienee selvää että maahanmuutto voi olla hallitsematonta. Se, missä raja kulkee, on tietenkin arvokysymys. Jos tulijat nähdään ei pelkästään täysin arvottomina vaan myös haitallisina, yksikin on liikaa. Jos maahanmuuttovastaisuus perustuu mielikuviin hallitsemattomista kuluista, rikollisuudesta ja havaintoon etnisesti eriytyneiden asuinalueiden muodostumisesta, on jo mahdollista käydä keskustelua. Tämän keskustelun tueksi tarvitaan ajantasaista tietoa ja tutkimusta maahanmuutosta ilmiönä ja viimeaikaisten maahanmuuttopoliittisten linjausten yhteisvaikutuksista. Asiallisessakin keskustelussa on vaarana kokonaisten ihmisryhmien demonisointi Suomen ongelmien aiheuttajiksi, joten siihen osallistuminen vaatii hienotunteisuutta, taitoa ja tarkkuutta.
+
+Perussuomalaisen politiikan rasistisuutta voi olla vaikea osoittaa toteen, jos jätämme heidän poliittisen julistuksensa huomiotta. Kaikki maahanmuuttopolitiikan kiristykset varmastikin kohtelevat kaikkia tulijoita tasapuolisesti. Tulos on, että sisään pääsee väkeä vähemmän kuin aiemmin ja ulos heitettyjä on enemmän kuin aiemmin. Maahanmuuttopoliittinen keskustelu on löytänyt kodin talouspoliittisen keskustelun alaisuudesta. Keskustelussa esitetyt argumentit maahanmuuton optimaalisesta laajuudesta perustuvat talouden ja yrittäjien työvoimatarpeelle ja väestöpyramidin muodon korjaamiselle. Suomen sulkeutuneisuus tuottaa turvaa monelle rasistille, mutta maakuva ja työvoiman liikkuvuus kärsivät, puhumattakaan epävarmuudesta, jota maahanmuuttopolitiikan kiristykset aiheuttavat saapujille ja heidän perheilleen.
+
+Mainitsen vielä nykytilan realiteeteista Ukrainan sodan ja muiden selkkausten vaikutuksen pakolaisvirtoihin, Venäjän rajan kiinnipidon ja odotuksen, että ilmastonmuutoksen myötä pakolaisvirrat tulevat seuraavina vuosikymmeninä kasvamaan entisestään. Suomen pitää aktiivisesti edistää ei vain omaa etuaan, vaan koko Euroopan yhteistä pakolaispolitiikkaa. Tähän liittyy olennaisesti Välimeren pakolaistilanteen hallinta, meidän oma rajaturvallisuus ja vielä joku päivä Ukrainan jälleenrakennus. Minun mielestäni Suomi voisi tehdä enemmän, organisoitua paremmin ja auttaa ja olla koti myös useammalle. Mutta saatanhan olla väärässäkin. Ehkä emme voi.
