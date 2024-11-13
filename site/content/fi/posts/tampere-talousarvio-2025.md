@@ -1,7 +1,7 @@
 +++
 title = 'Tampereen talousarvio 2025'
 subtitle = ''
-summary = ''
+summary = 'Valtuuston kokous 11.11.2024'
 tags = ['talous', 'tampere']
 date = 2024-11-13T12:18:51+02:00
 draft = false
@@ -29,6 +29,7 @@ Tässä talousarviossa laitettiin 6,2M€ kasvatus- ja opetuslautakunnan sektori
 Tämän lisäksi kokouksessa kiiteltiin muun muassa
 
 - [Hervantaan rakennettavaa kuntoilualuetta ja kuntoportaita](https://www.aamulehti.fi/tampere/art-2000010460431.html) (kustannusarvio 600k€)
+- uudet kirjastot avataan Vuorekseen ja Härmälään.
 - yli 65-vuotiaiden maksuttomat uimahallivuorot saavat jatkoa.
 - etsivän nuorisotyön ja työpajatoiminnan saamaa lisärahoitusta
 

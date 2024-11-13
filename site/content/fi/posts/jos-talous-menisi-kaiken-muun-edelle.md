@@ -1,7 +1,7 @@
 +++
 title = 'jos talous menisi kaiken muun edelle'
 subtitle = 'Hölmöläiset ovat keksineet, että talous pitää pelastaa riisiltä.'
-summary = ''
+summary = 'Viikonloput on peruttu.'
 tags = ['talous', 'iva-sarkasmi-ironia']
 date = 2024-09-27T12:18:51+02:00
 draft = false
