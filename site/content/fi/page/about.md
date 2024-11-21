@@ -8,7 +8,7 @@ translationKey: 'about'
 ## Hei!
 
 - Nimeni on Pertti. Perheen kesken minua kutsutaan myös Pepeksi.
-- Olen 33-vuotias ja asun Tampereeella.
+- Olen 34-vuotias ja asun Tampereella.
 - Olen koulutukseltani fyysikko.
 - Olen tehnyt töitä sovellusasiantuntijana, tosin juuri nyt olen työtön.
 - Vapaa-ajallani pelaan videopelejä. Olen myös aloittanut SPR:n Tampereen osaston vapaaehtoisena kielikahvilassa ja suomen kielen opetuksessa.
