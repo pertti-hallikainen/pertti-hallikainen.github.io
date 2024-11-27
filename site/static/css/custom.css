@@ -1,7 +1,17 @@
-.single h2 {
+
+
+
+
+
+.single h1, h2 {
     margin-top: 40px;
   }
 
 .single h2:first-of-type {
   margin-top:20px;
+}
+
+
+.single h3 {
+  margin-top: 20px;
 }

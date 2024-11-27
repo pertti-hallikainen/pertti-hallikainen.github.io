@@ -76,6 +76,11 @@ defaultContentLanguageInSubdir = true
     weight = 1
 
   [[menu.main]]
+    name = "Politik"
+    url = "page/politik"
+    weight = 5
+
+  [[menu.main]]
     name = "About"
     url = "page/about/"
     weight = 10
