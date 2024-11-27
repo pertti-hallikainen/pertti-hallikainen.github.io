@@ -6,7 +6,7 @@ translationKey: 'about'
 ---
 
 
-![Profile picture](ehdokaskuva-harmaa-sq.png)
+![Profile picture](/img/ehdokaskuva-harmaa-sq.png)
 
 
 ## Greetings

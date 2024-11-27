@@ -7,7 +7,8 @@ translationKey: 'about'
 
 
 
-![Ehdokaskuva](ehdokaskuva-harmaa-sq.png)
+![Ehdokaskuva](/img/ehdokaskuva-harmaa-sq.png)
+
 
 
 ## Hei!
