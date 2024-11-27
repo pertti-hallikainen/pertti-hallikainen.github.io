@@ -7,11 +7,11 @@ translationKey: 'politik'
 
 ## Municipal elections 13.4.2025
 
-I am a candidate in the municipal elections because I don't only want to complain about how things are, I also want to take action to improve them. Being a candidate is a natural way to participate in democratic decision-making. I value community, hold a worldview that I would describe as scientific and enjoy the company of my loved ones and the stories that we tell each other, which affect the world around us for generations to come. I am a candidate for [Tampereen Vihreät](https://www.tampereenvihreat.fi/embed/kuntavaalit24/?kieli=fi&vaali=kuntavaalit-2025), the Green Party.
+I am a candidate in the municipal elections because I don't only want to complain about how things are, I also want to take action to improve them. Being a candidate is a natural way to participate in democratic decision-making. I value community, hold a worldview that I would describe as scientific and enjoy the company of my loved ones and the stories we tell each other, which will affect the world around us for generations to come. I am a candidate for [Tampereen Vihreät](https://www.tampereenvihreat.fi/embed/kuntavaalit24/?kieli=fi&vaali=kuntavaalit-2025), the Green Party.
 
 In municipal politics it is possible to succeed if you are able to read and listen. If you want to achieve more, it would be useful to be able to inspire and negotiate. And those good values people talk so much about, they don't hurt to have.
 
-I will write on this page all things relevant to my campaign and I will link to the voting aid applications I answer. I appreciate transparency in politics and want to meet the voters' needs for information, during and after the election.
+I will write on this page all things relevant to my campaign and I will link to the voting aid applications I answer, once those open. I appreciate transparency in politics and want to meet the voters' needs for information, during and after the election.
 
 If you want to ask my opinion on a specific issue, you can contact me on Instagram or through e-mail. You can find my social links and contact information at the bottom of the page.
 
@@ -35,7 +35,9 @@ Group sizes in schools, teacher turnover rate and sick leaves, school bullying a
 
 Employment brings security to individuals and thus to all residents. When the employment and economic development services (TE-services) are transferred from the state to the city, we must seize the opportunity and usher the expertise of our TE-workers, find new routes of open-minded co-operation and new opportunities and work for our over 23000 unemployed people. Work should not be a privilege, and it should not be as cumbersome to mold a career path for yourself, be it part-time, temporary or whether in the public, private or the third sector. To improve work-life balance and share work evenly, the city could offer a 4-day work week for workers where applicable.
 
-Safety is also created by functional social and health services, substance abuse services and prevention of homelessness. Tampere should increase the capacity of shelters for victims of domestic abuse. For the county election, I recommend you check out [the candidates set by Pirkanmaan Vihreät](https://www.pirkanmaanvihreat.fi/embed/aluevaalit-ehdokkaat/?kieli=fi&vaali=aluevaalit-2025&alue=pirkanmaa).
+Safety is also created by functional social and health services, substance abuse services and prevention of homelessness. Tampere should increase the capacity of shelters for victims of domestic abuse.
+
+For the county election, check out [the candidates set by Pirkanmaan Vihreät](https://www.pirkanmaanvihreat.fi/embed/aluevaalit-ehdokkaat/?kieli=fi&vaali=aluevaalit-2025&alue=pirkanmaa).
 
 
 

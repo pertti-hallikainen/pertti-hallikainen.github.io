@@ -17,11 +17,11 @@ Kirjoitan tälle sivulle kaiken oleellisen vaalikampanjastani ja linkitän vaali
 
 ### 1. Jos ilmastohätätilaa ei julisteta valtakunnnallisesti, voimme tehdä sen paikallisesti
 
-Kuntalaisilla on oikeus tietää, että tätä kaupunkia johtavat ihmiset ottavat ilmastonmuutoksen vakavasti. Kaupungin nykyinen [ilmasto-tiekartta päättyy vuonna 2030](https://www.tampere.fi/luonto-ja-ymparisto/ilmastotyo-tampereella/hiilineutraali-tampere-2030), eli sen suhteen on loppukirin aika. Tulevan kaupunginvaltuuston tulee toteuttaa sovitut tavoitteeet ja aloittaa seuraavan strategian valmistelu. Tavoitteena pitää olla hiilineutraalisuus ja sitten hiilinegatiivisuus.
+Kuntalaisilla on oikeus tietää, että tätä kaupunkia johtavat ihmiset ottavat ilmastonmuutoksen vakavasti. Kaupungin nykyinen [ilmasto-tiekartta päättyy vuonna 2030](https://www.tampere.fi/luonto-ja-ymparisto/ilmastotyo-tampereella/hiilineutraali-tampere-2030), eli sen suhteen on loppukirin aika. Tulevan kaupunginvaltuuston tulee toteuttaa sovitut tavoitteeet ja aloittaa tiekartan jatkon valmistelu. Tavoitteena pitää olla hiilineutraalisuus ja sitten hiilinegatiivisuus.
 
 Ilmastotavoitteita ei voida saavuttaa ajoissa yksin teknologisten ratkaisujen avulla. Vaikka kuinka edistäisimme uusiutuvien energialähteiden kaavoittamista, synteettisten ja bio-polttoaineiden valmistusta, sähköautojen latauspisteiden rakentamista ja mahdollisesti pienydinvoiman rakentamista, meidän pitää ennen kaikkea vähentää kulutusta ja siirtyä vähäpäästöisiin vaihtoehtoihin kaikissa kaupungin hankinnoissa. Samalla jatkamme julkisen liikenteen kehittämistä, rakennamme tiiviisti ja suojelemme kaupungin metsiä, järviä ja lähiluontoa.
 
-### 2. Koulut ja nuoret kuntapäättäjien erityissuojeluun
+### 2. Koulut ja nuorten asiat kuntapäättäjien erityissuojeluun
 
 Koulujen ryhmäkokoja, opettajien vaihtuvuutta, sairaslomien määrää, koulukiusaamisen määrää ja oppimistuloksia pitää seurata kasvatuksen ja opetuksen lautakunnassa säännöllisesti. Koulut tarvitsevat työrauhan, mutta myös riittävät resurssit. Kaupungin pitää varmistaa että koulunkäynninohjaajia, erityisopettajia, koulukuraattoreja ja -psykologeja on riittävästi. Opettajien täydennyskoulutukset ja esim luokanohjaajan tehtävät näkyvät opettajan palkassa. Kouluissa edistetään demokratiakasvatusta ja antirasistista kasvatusta.
 
@@ -29,7 +29,9 @@ Koulujen ryhmäkokoja, opettajien vaihtuvuutta, sairaslomien määrää, kouluki
 
 Työllisyys tuo turvaa yksilöille ja sitä kautta kaikille kaupunkilaisille. Kun TE-palvelut siirtyvät kaupungille, meidän on otettava kaikki hyöty irti tästä tilaisuudesta ja todella kannustaa työllisyyspalveluiden asiantuntijoita toiminnan kehittämiseen, jotta yhä useampi työtön voisi löytää työpaikan tai työllistymiseen tarvitsemansa avun. Kaupungin on tuotava piilotyöpaikat näkyviin sekä luotava kokonaan uusia työpaikkoja, yksityisen ja kolmannen sektorin tärkeyttä unohtamatta. Työn ei pitäisi olla etu-oikeus, eikä arki omassa työssä saisi olla niin epävarmaa, ettei välillä voisi ottaa riskejä ja kokeilla jotain uutta. Parantaaksemme työssä jaksamista ja jakaaksemme työtä reilummin, kaupunki voisi työnantajana tarjota mahdollisuutta 4-päiväiseen työviikkoon siihen soveltuvilla aloilla.
 
-Työn lisäksi turvaa voidaan luoda toimivilla sosiaali- ja terveyspalveluilla, päihdepalveluilla ja asunnottomuuden ehkäisyllä. Tampereen pitäisi kasvattaa turvakotien määrää, jotta voisimme paremmin suojella lähisuhdeväkivaltaa pakenevien kasvanutta joukkoa. Suosittelen että tutustut [Pirkanmaan Vihreiden aluevaaliehdokkaisiin](https://www.pirkanmaanvihreat.fi/embed/aluevaalit-ehdokkaat/?kieli=fi&vaali=aluevaalit-2025&alue=pirkanmaa).
+Työn lisäksi turvaa voidaan luoda toimivilla sosiaali- ja terveyspalveluilla, päihdepalveluilla ja asunnottomuuden ehkäisyllä. Tampereen pitäisi kasvattaa turvakotien määrää, jotta voisimme paremmin suojella lähisuhdeväkivaltaa pakenevien kasvanutta joukkoa.
+
+Tutustu tästä [Pirkanmaan Vihreiden aluevaaliehdokkaisiin](https://www.pirkanmaanvihreat.fi/embed/aluevaalit-ehdokkaat/?kieli=fi&vaali=aluevaalit-2025&alue=pirkanmaa).
 
 
 
