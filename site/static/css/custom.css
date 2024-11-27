@@ -15,3 +15,8 @@
 .single h3 {
   margin-top: 20px;
 }
+
+
+.single img {
+  float: right
+}

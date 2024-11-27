@@ -5,14 +5,21 @@ comments: false
 translationKey: 'about'
 ---
 
+
+
+![Ehdokaskuva](ehdokaskuva-harmaa-sq.png)
+
+
 ## Hei!
+
+
 
 - Nimeni on Pertti. Perheen kesken minua kutsutaan myös Pepeksi.
 - Olen 34-vuotias ja asun Tampereella.
 - Olen koulutukseltani fyysikko.
 - Olen tehnyt töitä sovellusasiantuntijana, tosin juuri nyt olen työtön.
-- Vapaa-ajallani pelaan videopelejä. Olen myös aloittanut SPR:n Tampereen osaston vapaaehtoisena kielikahvilassa ja suomen kielen opetuksessa.
-- Olen laajasti kiinnostunut filosofian eri suuntauksista, yhteiskuntatieteistä, peliteoriasta jne.
+- Vapaa-ajallani pelaan videopelejä. Teen myös vapaaehtoistyötä SPR:n Tampereen osaston kielikahviloissa ja suomen kielen opetuksessa.
+- Olen laajasti kiinnostunut filosofiasta, yhteiskuntatieteistä, peliteoriasta jne.
 
 ## Työt ja opiskelut
 - Olen ollut työtön vuodesta 2022 lähtien. Minulle on ollut tärkeä laittaa oma terveyteni etusijalle ja viettää enemmän aikaa minulle rakkaiden läheisten kanssa. Olen myös työstänyt yhtä kirjoitusprojektia ja muutamaa peli-ideaa.

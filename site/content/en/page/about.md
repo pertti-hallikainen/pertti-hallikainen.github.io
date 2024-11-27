@@ -6,6 +6,9 @@ translationKey: 'about'
 ---
 
 
+![Profile picture](ehdokaskuva-harmaa-sq.png)
+
+
 ## Greetings
 
 My name is Pertti. My family occasionally calls me Pepe.
@@ -13,9 +16,9 @@ My name is Pertti. My family occasionally calls me Pepe.
 - I'm 34 years old. I live in Tampere, Finland.
 - I used to work as a software developer. Right now I'm unemployed.
 - I've got a master's degree in physics.
-- I won the 1st place trophy from a Magic the Gathering pre-release event in Helsinki back in 2018. I enjoy strategy games and card games.
+- I enjoy strategy games and card games.
 - I've done volunteer work for the Finnish Red Cross, teaching Finnish to immigrants.
-- I'm very much interested in game theory, system theory and related topics, for example when applied to the study of climate change politics. I'm widely interested in philosophy, sociology and economics. I'm also interested in matters related to seeing, noticing and being seen, empathy and stuff like that.
+- I'm very much interested in game theory, system theory and related topics, applications ranging from analysis of world politics or climate politics to the personal day to day. I'm widely interested in philosophy, sociology and economics. I'm also interested in matters related to seeing, noticing and being seen, empathy and stuff like that.
 
 
 If there's anything else you would like to know about me, I'm your guy to ask. You can find my contact information & social links at the bottom of the page.
