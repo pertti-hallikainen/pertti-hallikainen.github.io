@@ -2,7 +2,7 @@
 title = 'Tömäköitä ajatuksia ilmastonmuutoksesta'
 # subtitle = 'Including bonus track: why you should care'
 summary = 'Ilmastohätätilan julistaminen olisi rehellinen ja tulevaisuuttamme kunnioittava teko.'
-tags = ['ilmastonmuutos']
+tags = ['politik', 'ilmastonmuutos']
 date = 2025-01-11T12:18:51+02:00
 draft = false
 +++

@@ -2,7 +2,7 @@
 title = 'Kiista yhteismaista - muistiinpanot'
 subtitle = 'Garrett Hardin ja selviytymisen politiikka'
 summary = ''
-tags = ['book-review', 'peliteoria']
+tags = ['kirja-arvostelu', 'peliteoria']
 date = 2024-09-24T12:18:51+02:00
 draft = false
 +++

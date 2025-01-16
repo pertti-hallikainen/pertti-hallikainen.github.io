@@ -2,13 +2,13 @@
 title = 'The Impossible Sudoku'
 subtitle = 'Literally impossible'
 summary = 'Teach kids that not all problems have solutions - and how to recognize those that don&#39;t.'
-tags = ['koulu', 'yo-kirjoitukset']
+tags = ['education-and-upbringing']
 date = 2024-03-25T12:18:51+02:00
 draft = false
 +++
 
-## The 2024 Spring Matriculation Math Exam had a oopsie
-The advanced mathematics examination (also known as The Long Math) had a mistake in it; problem 5 had no valid solutions. The problem featured a grid of numbers, where each number was supposed to be the average of those directly next to it. The challenge was to form a group of equations and solve for x and y, a rather common task, except this time no numbers x and y existed that would satisfy the given conditions. Many students were left confounded.
+
+The advanced mathematics examination (also colloquially known as The Long Math) had a mistake in it; problem 5 had no valid solutions. The problem featured a grid of numbers, where each number was supposed to be the average of those directly next to it. The challenge was to form a group of equations and solve for x and y, except this time no numbers x and y existed that would satisfy the given conditions. Many students were left confounded.
 
 The problem and sample solution can be found [here](https://files.mafy.fi/Yo-mallivastaukset/2024K/pmyo_k24.pdf#section*.6).
 

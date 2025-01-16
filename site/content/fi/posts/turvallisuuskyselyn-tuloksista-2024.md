@@ -1,8 +1,8 @@
 +++
-title = 'Turvallisuudesta ja nuorisosta'
+title = 'Turvallisuudesta'
 subtitle = ''
 summary = 'Osallistuin Hervannan kirjastossa tilaisuuteen, jossa esiteltiin turvallisuuskyselyn tuloksia.'
-tags = ['safety', 'community', 'hervanta', 'nuva']
+tags = ['politik', 'turvallisuus', 'yhteisöllisyys', 'hervanta', 'tampere']
 date = 2024-10-31T12:18:51+02:00
 draft = false
 +++
@@ -24,13 +24,11 @@ Kyselyssä oli mainintoja myös helpoista keinoista parantaa turvallisuudentunne
 
 ## Nuorisoa
 
-Yksi ryhmä jonka käytöksestä myös lyhyesti puhuttiin oli nuoriso. En tiennyt että [Tampere käyttää vähemmän rahaa nuorisotyöhön kuin verrokkikaupungit](https://yle.fi/a/3-12090354). Nuorilla on tietenkin oikeus liikkua kauppakeskuksissa ja kirjastoissa siinä missä kaikilla muillakin. Kirjastoissa ei enää tarvitse olla aivan samalla tavalla [hiljaa](https://yle.fi/a/3-5605134) kuin joskus. Hervannasta löytyy nuorisokeskus Kupoli, jota kehuttiin. Vaikka [poliisi ei kaikkia rikoksia tutkikaan](https://www.aamulehti.fi/pirkanmaa/art-2000010764024.html), ehkä jos näkee lapsen tai nuoren syyllistyvän ryöstöön tai huumeiden katukauppaan, siitä kannattaa silti ilmoittaa.
+Tapahtumassa puhuttiin lyhyesti myös nuorisosta. En tiennyt aiemmin että [Tampere käyttää vähemmän rahaa nuorisotyöhön kuin verrokkikaupungit](https://yle.fi/a/3-12090354). Nuorilla on tietenkin oikeus liikkua kauppakeskuksissa ja kirjastoissa siinä missä kaikilla muillakin. Kirjastoissa ei enää tarvitse olla aivan samalla tavalla [hiljaa](https://yle.fi/a/3-5605134) kuin joskus. Hervannasta löytyy nuorisokeskus Kupoli, jota kehuttiin. Vaikka [poliisi ei kaikkia rikoksia tutkikaan](https://www.aamulehti.fi/pirkanmaa/art-2000010764024.html), ehkä jos näkee lapsen tai nuoren syyllistyvän ryöstöön tai huumeiden katukauppaan, siitä kannattaa silti ilmoittaa.
 
-Seuraavana päivänä 30.10.2024 kävin vierailemassa Tampereen nuorisovaltuuston kokouksessa. Kokoukset ovat avoimia ja minun on pitänyt jo aiemmin tänä vuonna käydä katsomassa miltä siellä näyttää, mutta en ole päässyt vasta kuin nyt. Tämä on osa minun valmistautumistani kunnallisvaaleihin. Nuorisovaltuusto on lakisääteinen kaupungin toimielin, muita vähän vastaavia ovat vammaisvaltuusto, vanhusneuvosto ja maahanmuuttajaneuvosto.
+Seuraavana päivänä 30.10.2024 kävin vierailemassa Tampereen nuorisovaltuuston kokouksessa. Kokoukset ovat avoimia ja minun on pitänyt jo aiemmin tänä vuonna käydä katsomassa miltä siellä näyttää, mutta en ole päässyt kuin vasta nyt. Tämä on osa minun valmistautumistani kunnallisvaaleihin. Nuorisovaltuusto on lakisääteinen kaupungin toimielin, muita vastaavia ovat vammaisvaltuusto, vanhusneuvosto ja maahanmuuttajaneuvosto.
 
 Nuorisovaltuustossa oli kokoustamassa yli 20 nuorta, nuoriso-ohjaaja ja vielä joku työntekijä. Kokouksessa käytiin läpi pitkää listaa tiedoksi merkittäviä asioita. Nuorisovaltuusto asettaa edustajansa kaupungin lautakuntiin ja kaikenlaisiin yhteistyöryhmiin, foorumeihin, neuvottelukuntiin ja ties mihin, ja heillä on myös puheoikeus näissä. Nuvan kokous olikin aika terävä läpileikkaus Tampereen ajankohtaisista asioista, tietysti nuorten näkökulmasta. Ikuisuusaiheina oli kouluruoan laatu ja kännykät luokkahuoneessa, mutta näiden lisäksi puhuttiin myös osallistavasta budjetoinnista, valtuustoaloitteiden pitkistä käsittelyajoista ja joukkoliikenteen hintojen korotuksesta.
-
-Joukosta pystyi löytämään todellisia politiikkanörttejä, ehkä he olivat kaikki enemmän tai vähemmän sellaisia. Tuolla termillä näitä politiikasta kiinnostuneita ihmisiä olen nähnyt kutsuttavan. Nuoret hakevat tilaisuuksia ja keinoja edistää heille tärkeitä asioita, heillä on monenlaista osaamista ja usein kaikkein selkein ja asiallisin esiintymistapa, mitä nyt olen kunnanvaltuustojen kokouksia katsellut. Toivottavasti sama asenne ja arvokkuus säilyy.
 
 Sattumoisin nuorisovaltuuston kausi on päättymässä ja uuden valtuuston [vaali on käynnissä](https://www.tampere.fi/osallistu-ja-vaikuta/lasten-ja-nuorten-vaikuttaminen/nuorisovaltuusto/nuorisovaltuustovaalit-2024).
 

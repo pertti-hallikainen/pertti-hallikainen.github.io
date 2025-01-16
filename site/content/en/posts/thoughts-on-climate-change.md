@@ -1,8 +1,8 @@
 +++
 title = 'Assorted thoughts on climate change'
 # subtitle = 'Including bonus track: why you should care'
-summary = 'Including bonus track: why you should care'
-tags = ['climate-change']
+summary = 'Including bonus track: why you should care.'
+tags = ['politik', 'climate-change']
 date = 2025-01-11T12:18:51+02:00
 draft = false
 +++

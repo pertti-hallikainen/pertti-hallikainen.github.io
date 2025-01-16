@@ -2,7 +2,7 @@
 title = 'Mahdoton Sudoku'
 subtitle = ''
 summary = 'Koulussa pitäisi opettaa ettei kaikkiin ongelmiin ole ratkaisuja - ja miten löytää mahdottomat ratkaistavissa olevien joukosta.'
-tags = ['koulu', 'yo-kirjoitukset']
+tags = ['kasvatus-ja-opetus']
 date = 2024-03-25T12:18:51+02:00
 draft = false
 +++
