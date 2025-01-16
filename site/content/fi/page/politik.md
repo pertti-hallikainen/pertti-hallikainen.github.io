@@ -7,9 +7,11 @@ translationKey: 'politik'
 
 ## Kuntavaalit 13.4.2025
 
-Olen ehdolla kuntavaaleissa, koska en halua vain valittaa asioista, vaan myös tehdä asioita. Ehdokkuus on luonnollinen tapa osallistua demokraattiseen päätöksentekoon. Minulle elämässäni tärkeitä asioita ovat yhteisöllisyys, tieteellinen maailmankuva, läheiset ihmiset sekä tarinat joita kerromme toisillemme ja jotka jäävät elämään ja kummittelemaan vielä tulevien sukupolvien iloksi ja harmiksi. Olen ehdolla [Tampereen Vihreiden listalla](https://www.tampereenvihreat.fi/embed/kuntavaalit24/?kieli=fi&vaali=kuntavaalit-2025).
+Olen ehdolla kuntavaaleissa, koska en halua vain valittaa asioista, vaan olla myös mukana tekemässä asioita. Ehdokkuus on luonnollinen tapa osallistua demokraattiseen päätöksentekoon. Minulle elämässäni tärkeitä asioita ovat yhteisöllisyys, tieteellinen maailmankuva, läheiset ihmiset sekä tarinat joita kerromme toisillemme ja jotka jäävät elämään vielä tulevienkin sukupolvien iloksi ja harmiksi. [Olen ehdolla Tampereen Vihreiden listalla](https://www.tampereenvihreat.fi/embed/kuntavaalit24/?kieli=fi&vaali=kuntavaalit-2025).
 
-Kuntapolitiikkassa voi menestyä jos osaa lukea ja kuunnella. Jos haluaa saada aikaan enemmän, olisi hyödyllistä osata myös inspiroida ja neuvotella. Eikä niistä paljon puhutuista hyvistä arvoistakaan haittaa ole.
+Kuntapolitiikka on veikeä laji. Huomaan jo että kilpailullinen puoleni yrittää syöttää minulle ajatuksia siitä mitä kaikkea minun pitäisi vaaleja varten tehdä ja miten. Koska aikaa on käytettävissä rajallisesti, yritän keskittyä olennaiseen.
+
+Meille on yritetty painottaa, että kaikkea ei tarvitse tehdä itse. Henkilökohtaisesti tukiryhmän kerääminen oman vaalikampanjan ympärille tuntuu minusta vaivalloiselta. Siksi olen itse oma kampanjapäällikköni ja tukitiimini ainoa jäsen. Jos haluat tukea minua tai auttaa kampanjan tekemisessä, voit ottaa minuun yhteyttä sosiaalisen median alustoilla tai sähköpostitse. Kaikki nämä yhteystiedot löytyvät sivun alareunan palleroista.
 
 Kirjoitan tälle sivulle kaiken oleellisen vaalikampanjastani ja linkitän vaalikonevastaukseni. Arvostan politiikassa avoimuutta ja pyrin siihen että blogini vastaa äänestäjien tiedonsaantitarpeeseen myös vaalien jälkeen.
 
@@ -21,6 +23,8 @@ Kuntalaisilla on oikeus tietää, että tätä kaupunkia johtavat ihmiset ottava
 
 Ilmastotavoitteita ei voida saavuttaa ajoissa yksin teknologisten ratkaisujen avulla. Vaikka kuinka edistäisimme uusiutuvien energialähteiden kaavoittamista, synteettisten ja bio-polttoaineiden valmistusta, sähköautojen latauspisteiden rakentamista ja mahdollisesti pienydinvoiman rakentamista, meidän pitää ennen kaikkea vähentää kulutusta ja siirtyä vähäpäästöisiin vaihtoehtoihin kaikissa kaupungin hankinnoissa. Samalla jatkamme julkisen liikenteen kehittämistä, rakennamme tiiviisti ja suojelemme kaupungin metsiä, järviä ja lähiluontoa.
 
+Olen kirjoittanut ilmastonmuutoksesta pidemmästi [täällä.](/fi/posts/thoughts-on-climate-change/)
+
 ### 2. Koulut ja nuorten asiat kuntapäättäjien erityissuojeluun
 
 Koulujen ryhmäkokoja, opettajien vaihtuvuutta, sairaslomien määrää, koulukiusaamisen määrää ja oppimistuloksia pitää seurata kasvatuksen ja opetuksen lautakunnassa säännöllisesti. Koulut tarvitsevat työrauhan, mutta myös riittävät resurssit. Kaupungin pitää varmistaa että koulunkäynninohjaajia, erityisopettajia, koulukuraattoreja ja -psykologeja on riittävästi. Opettajien täydennyskoulutukset ja esim luokanohjaajan tehtävät näkyvät opettajan palkassa. Kouluissa edistetään demokratiakasvatusta ja antirasistista kasvatusta.
@@ -31,10 +35,12 @@ Työllisyys tuo turvaa yksilöille ja sitä kautta kaikille kaupunkilaisille. Ku
 
 Työn lisäksi turvaa voidaan luoda toimivilla sosiaali- ja terveyspalveluilla, päihdepalveluilla ja asunnottomuuden ehkäisyllä. Tampereen pitäisi kasvattaa turvakotien määrää, jotta voisimme paremmin suojella lähisuhdeväkivaltaa pakenevien kasvanutta joukkoa.
 
-Tutustu tästä [Pirkanmaan Vihreiden aluevaaliehdokkaisiin](https://www.pirkanmaanvihreat.fi/embed/aluevaalit-ehdokkaat/?kieli=fi&vaali=aluevaalit-2025&alue=pirkanmaa).
+Tutustu tästä [Pirkanmaan Vihreiden aluevaaliehdokkaisiin](https://www.pirkanmaanvihreat.fi/embed/aluevaalit-ehdokkaat/?kieli=fi&vaali=aluevaalit-2025&alue=pirkanmaa)
+
+ja tästä [Tampereen Vihreiden kuntavaaliohjelmaan](https://www.tampereenvihreat.fi/kuntavaalien-vaaliohjelma/)
 
 
-
+---
 
 
 ### Linkkejä

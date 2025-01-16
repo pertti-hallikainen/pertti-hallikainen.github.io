@@ -6,7 +6,12 @@ translationKey: 'linkkidumppi'
 ---
 
 
-## Linkkidumppi sosiaali- ja terveydenhuollosta
+<!-- Linkkidumppi on paikka jonne kerään Internetissä vastaan tulleita mielenkiintoisia uutisia, artikkeleja ja mielipiteitä. Seuraan pääasiassa hesaria, aamulehteä ja Ylen uutisia, mutta luen myös sosiaalisessa mediassa vastaan tulleita juttuja. Täältä ei löydy kaikki lukemani, vain ne joita olen pitänyt niin tärkeinä että olen muistanut heittää ne pinon päällimmäiseksi. -->
+
+
+
+
+## sosiaali- ja terveydenhuollosta
 
 [Lukijalta: Minulle soitti hoitaja ja kertoi, että hoitajamitoituksen lasku näkyy heillä niin, etteivät he ehdi ennen lounasta vaihtaa kaikkien asukkaiden yövaippoja kuiviin - Aamulehti](https://www.aamulehti.fi/lukijalta/art-2000010964556.html)
 
@@ -18,7 +23,7 @@ translationKey: 'linkkidumppi'
 
 [Ministeri Satonen lähtee etsimään hoitajia Aasiasta – Jani Mäkelä ihmeissään | HS.fi (10.1.2025)](https://www.hs.fi/politiikka/art-2000010954123.html)
 
-## Linkkidumppi taloudesta
+## taloudesta
 
 [Raju grafiikka näyttää: Suomen talouskasvu jämähti 10. huonoimmalle sijalle koko maailmassa | Talous | Yle (8.11.2024)](https://yle.fi/a/74-20122992)
 
@@ -26,7 +31,7 @@ translationKey: 'linkkidumppi'
 
 [Mansikkalaatikko kutistui ja kilohinta kilahti pilviin – näin paljon mansikka maksaa eri puolilla Suomea | Kotimaa | Yle](https://yle.fi/a/74-20098975)
 
-## Linkkidumppi ilmastosta
+## ilmastosta
 
 [Hallitus hyväksyi puhtaan siirtymän teollisten investointien tukiohjelman: tukea varattu 400 miljoonaa euroa vuodelle 2025 - Valtioneuvosto (9.1.2025)](https://valtioneuvosto.fi/-/1410877/hallitus-hyvaksyi-puhtaan-siirtyman-teollisten-investointien-tukiohjelman-tukea-varattu-400-miljoonaa-euroa-vuodelle-2025)
 
@@ -36,7 +41,7 @@ translationKey: 'linkkidumppi'
 
 [Ilouutinen maailmanhistorian mittakaavassa: Maailma on siirtymässä uuden energiatalouden aikaan | Talous | Yle (25.10.2024)](https://yle.fi/a/74-20119426)
 
-## Linkkidumppi ilmastonmuutoksen seurauksista
+## ilmastonmuutoksen seurauksista
 
 [Plants Are Becoming Less Nutritious Because of Climate Change, Impacting Herbivores From Insects to Giant Pandas - EcoWatch](https://www.ecowatch.com/climate-change-plant-nutrition-decrease.html)
 
@@ -50,7 +55,7 @@ translationKey: 'linkkidumppi'
 
 
 
-## Linkkidumppi tekoälystä
+## tekoälystä
 
 [Nuorten mielenterveyschatissa voi nyt vastata botti - Aamulehti](https://www.aamulehti.fi/kotimaa/art-2000010964703.html)
 
@@ -59,7 +64,7 @@ translationKey: 'linkkidumppi'
 [Tekoäly matkii ihmistä - Tiede | HS.fi](https://www.hs.fi/tiede/art-2000010556764.html)
 
 
-## Linkkidumppi maailman menosta yleisesti
+## maailman menosta yleisesti
 
 [Tässä ovat vuoden 2024 parhaat videopelit | HS.fi](https://www.hs.fi/kulttuuri/art-2000010899437.html)
 
