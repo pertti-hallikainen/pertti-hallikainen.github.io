@@ -11,7 +11,7 @@ Olen ehdolla kuntavaaleissa, koska en halua vain valittaa asioista, vaan olla my
 
 Kuntapolitiikka on veikeä laji. Huomaan jo että kilpailullinen puoleni yrittää syöttää minulle ajatuksia siitä mitä kaikkea minun pitäisi vaaleja varten tehdä ja miten. Koska aikaa on käytettävissä rajallisesti, yritän keskittyä olennaiseen.
 
-Meille on yritetty painottaa, että kaikkea ei tarvitse tehdä itse. Henkilökohtaisesti tukiryhmän kerääminen oman vaalikampanjan ympärille tuntuu minusta vaivalloiselta. Siksi olen itse oma kampanjapäällikköni ja tukitiimini ainoa jäsen. Jos haluat tukea minua tai auttaa kampanjan tekemisessä, voit ottaa minuun yhteyttä sosiaalisen median alustoilla tai sähköpostitse. Kaikki nämä yhteystiedot löytyvät sivun alareunan palleroista.
+Meille on yritetty painottaa, että kaikkea ei tarvitse tehdä itse. Henkilökohtaisesti tukiryhmän kerääminen oman vaalikampanjan ympärille tuntuu minusta vaivalloiselta. Siksi olen itse oma kampanjapäällikköni ja tukitiimini ainoa jäsen. Jos haluat tukea minua tai auttaa kampanjan tekemisessä, voit ottaa minuun yhteyttä sosiaalisen median alustoilla tai sähköpostitse. Yhteystiedot löytyvät sivun alareunan palleroista.
 
 Kirjoitan tälle sivulle kaiken oleellisen vaalikampanjastani ja linkitän vaalikonevastaukseni. Arvostan politiikassa avoimuutta ja pyrin siihen että blogini vastaa äänestäjien tiedonsaantitarpeeseen myös vaalien jälkeen.
 
