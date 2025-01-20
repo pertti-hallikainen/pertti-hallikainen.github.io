@@ -11,17 +11,14 @@ translationKey: 'about'
 
 ## Greetings
 
-My name is Pertti. My family occasionally calls me Pepe.
+My name is Pertti.
 
 - I'm 34 years old. I live in Tampere, Finland.
 - I used to work as a software developer. Right now I'm unemployed.
 - I've got a master's degree in physics.
-- I enjoy strategy games and card games.
-- I've done volunteer work for the Finnish Red Cross, teaching Finnish to immigrants.
-- I'm very much interested in game theory, system theory and related topics, applications ranging from analysis of world politics or climate politics to the personal day to day. I'm widely interested in philosophy, sociology and economics. I'm also interested in matters related to seeing, noticing and being seen, empathy and stuff like that.
-
-
-If there's anything else you would like to know about me, I'm your guy to ask. You can find my contact information & social links at the bottom of the page.
+- I enjoy strategy games, both tabletop and digital.
+- I do volunteer work for the Finnish Red Cross, teaching Finnish to immigrants.
+- I'm very much interested in game theory, system theory and related topics, applications ranging from analysis of world politics to the more personal day to day. I'm widely interested in philosophy, sociology and economics.
 
 
 ## Professional history
@@ -35,6 +32,14 @@ If there's anything else you would like to know about me, I'm your guy to ask. Y
 
 I've been a member of the Finnish Green Party since 2011. I was a candidate in the 2012 municipal election in Jyväskylä. When I moved to Helsinki for work in 2016 (for the years that then became the Trump presidency, Covid and the Russian invasion of Ukraine), I did not participate in Helsinki-local politics. This was one thing that caused me stress during those years, although I did not quite understand the extent of the problem back then. I didn't do enough to find a community for myself. Unemployment has been privileged time for me, it has allowed me time and energy to realign my priorities and strengthened by ability to act on them accordingly. Now, I am a candidate for the Tampere Greens in the 2025 municipal election.
 
-My political views are left leaning, with a strong interest towards softening the transition from a fossil fuel powered economy towards a sustainable society based on more responsible consumption of natural resources and powered by clean, renewable energy. Tampere is an excellent city for families both with or without children, welcoming to refugees and immigrants and safe for everyone. The city is going to continue seeing some of the fastest growth in all of Finland. Managing this growth in a manner that is both environmentally and socially responsible is going to be the biggest challenge the new city council will face in the immediate future.
+My political views are left leaning, with a strong interest towards softening the transition from a fossil fuel powered economy towards a sustainable society based on more responsible consumption of natural resources and powered by clean, renewable energy. 
 
-On this site I am going to write about local politics and highlight some stories from further away. If you find any of these topics interesting, I hope you take the address for later use. Writing is purposeful.
+Tampere is an excellent city for families both with or without children, welcoming to refugees and immigrants and safe for everyone. The city is going to continue growing and managing this growth in a manner that is both environmentally and socially sustainable is going to be the biggest challenge the new city council will face.
+
+On this site I am going to write about local politics and more broadly on the world and what it looks like from my point of view. Writing is purposeful.
+
+
+### Links
+
+- [Threads.net/@prtthllknn](https://www.threads.net/@prtthllknn)
+- [reading list](/page/res/once-upon-a-time/)

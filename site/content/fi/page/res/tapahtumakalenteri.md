@@ -15,6 +15,8 @@ Yritän mainostaa [Instagramissa](https://www.instagram.com/prtthllknn) niitä t
 ## Kampanjatapahtumat
 
 - 1.2.2025 klo 12-16 Kaikille mielen tiloille - paneelikeskusteluja mielenterveydestä ([mainos Instagramissa](https://www.instagram.com/p/DEzwvFAKEao/?img_index=1))
+- 3.2.2025 at 12-14 Pirkanmaan Yrittäjien sidosryhmätilaisuus ([tapahtuman tiedot](https://www.yrittajat.fi/tapahtumat/pirkanmaan-yrittajien-sidosryhmatilaisuus/))
+
 
 ---
 

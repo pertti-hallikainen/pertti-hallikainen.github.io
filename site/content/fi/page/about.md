@@ -29,10 +29,15 @@ translationKey: 'about'
 
 ## Politiikka
 
-Olen ollut Vihreiden jäsen vuodesta 2011 lähtien. Vuonna 2012 olin ehdolla kunnallisvaaleissa Jyväskylässä. Helsingissä asuessani en osallistunut politiikkaan. En tehnyt tarpeeksi löytääkseni itselleni omaa yhteisöä. Työttömyys on sallinut minun käyttää aikaa siihen että tiedän omat prioriteettini ja vahvistanut myös kykyäni toimia niiden mukaisesti. Nyt olen Tampereen vihreiden ehdokas vuoden 2025 kuntavaaleissa.
+Olen ollut Vihreiden jäsen vuodesta 2011 lähtien. Vuonna 2012 olin ehdolla kunnallisvaaleissa Jyväskylässä. Helsingissä asuessani en osallistunut politiikkaan. En tuolloin tehnyt tarpeeksi löytääkseni itselleni omaa yhteisöä. Työttömyys on sallinut minun käyttää aikaa siihen että tiedän omat prioriteettini ja vahvistanut myös kykyäni toimia niiden mukaisesti. Nyt vuonna 2025 olen ehdolla kuntavaaleissa Tampereen vihreiden listalla.
 
 Olen poliittisilta näkemyksiltäni vasemmalle kallellaan. Olen erittäin kiinnostunut keinoista joilla voimme pehmentää siirtymää fossiilitaloudesta kohti kestävämpää, tehokkaammin luonnonvaroja käyttävää yhteiskuntaa, joka pyörii puhtaalla, uusiutuvalla energialla. 
 
-Tampere on hieno kaupunki kaikenlaisille perheille, sekä lasten kanssa tai ilman. Me toivotamme tervetulleeksi pakolaiset ja maahanmuuttajat ja pidämme yhdessä huolta että kaupunki on kaikille turvallinen. Kaupungin voimakas kasvu tulee jatkumaan. Tämän kasvun vastuullinen ohjaaminen tulee olemaan uuden kaupunginvaltuuston tärkein ja vaativin tehtävä.
+Tampere vaikuttaa ensisilmäykseltä aivan tavalliselta suomalaiselta kaupugilta. Tänne ovat tervetulleita kaikki, myös pakolaiset ja maahanmuuttajat, ja pidämme yhdessä huolta että kaupunki on kaikille turvallinen. Kaupungin asukasluvun kasvu tulee jatkumaan. Kasvun vastuullinen ohjaaminen tulee olemaan uuden kaupunginvaltuuston tärkein tehtävä.
 
-Aion koota blogiini nostoja paikallispolitiikasta ja joitain havaintoja maailman menosta laajemmalla putkella. Jos aiheet yhtään kiinnostavat, toivon että otat osoitteen talteen myöhempää käyttöä varten. Kirjoittaminen on tavoitteellista.
+Aion koota blogiini nostoja paikallispolitiikasta ja joitain havaintoja maailman menosta laajemmalla putkella. Kirjoittaminen on tavoitteellista.
+
+---
+
+- [Threads.net/@prtthllknn](https://www.threads.net/@prtthllknn)
+- [Kirjahylly](/fi/page/res/olipa-kerran/)

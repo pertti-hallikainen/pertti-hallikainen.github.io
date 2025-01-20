@@ -15,10 +15,11 @@ I'll try to advertise events I'm attending on [Instagram](https://www.instagram.
 ## Campaign events
 
 - 1.2.2025 at 12-16 Panel discussions on mental health, Metso Library ([Event on Instagram](https://www.instagram.com/p/DEzwvFAKEao/?img_index=1))
+- 3.2.2025 at 12-14 Pirkanmaa Entrepeneurs promotional event for small and medium sized businesses ([Event details](https://www.yrittajat.fi/tapahtumat/pirkanmaan-yrittajien-sidosryhmatilaisuus/))
 
 ---
 
-## Elections
+## Election
 - Advance voting period in Finland 2.-8.4.2025
 - Election day 13.4.2025
 

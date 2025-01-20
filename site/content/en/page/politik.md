@@ -9,13 +9,13 @@ translationKey: 'politik'
 
 I am a candidate in the municipal elections because I don't only want to complain about how things are, I also want to take action to improve them. Being a candidate is a natural way to participate in democratic decision-making. I value community, hold a worldview that I would describe as scientific and enjoy the company of my loved ones and the stories we tell each other. I am a candidate for [Tampereen Vihreät](https://www.tampereenvihreat.fi/embed/kuntavaalit24/?kieli=fi&vaali=kuntavaalit-2025), the Green Party.
 
-Municipal politics is a bit of a weird sport. I'm hoping the representatives who get elected into the city council are reasonable people, with whom it is possible to hold a conversation and work together to develop the city in a healthy direction. Our decision-making process should be robust in such a way that people can trust their taxes are spent responsibly and that the city provides it's services at sufficient quantity and quality.
+Municipal politics is a bit of a weird sport. I'm hoping the representatives who get elected into the city council are reasonable people, with whom it is possible to hold a conversation and to work together to develop the city in a healthy direction. Our decision-making process should be robust in such a way that people can trust their taxes are spent responsibly and that the city provides it's services at sufficient quantity and quality.
 
 If you are unfamiliar with the Finnish Green Party, you can find the best summary of who we are from our [political programme.](https://www.greens.fi/political-programme-of-the-greens-2023-2027/)
 
-For my campaign, I will try to split my time between writing these campaign materials and then going out there to spread the message to as many people as I can. I am already feeling a bit of a competitive spirit; I want to get a good amount of votes for my group and for my own stash. As you might be aware the world is not yet complete and if we want to change something about it, it is within our power to try to do so. If you want to help us, please come and say hi or contact me via the social links at the bottom of this page, or join the conversation on [Threads](https://www.threads.net/@prtthllknn).
+For my campaign, I will try to split my time between writing these campaign materials and then going out there to spread the message to as many people as I can. I am already feeling a bit of a competitive spirit; I want to get a good amount of votes for my group and for my own stash. As you might be aware, the world is not yet complete and if we want to change something about it, it is within our power to try to do so.
 
-I will write on this page all things relevant to my campaign. I appreciate transparency in politics, during and between elections. If there is a specific issue you want to know my opinion on, please ask me about it. Otherwise I will focus on issues I find the most important.
+I will write on this page all things relevant to my campaign. This follows my ideal of transparency in politics, both during and after elections. If there is a specific issue you want to know my opinion on, you can contact me with the social links below or join the conversation on [Threads](https://www.threads.net/@prtthllknn). Otherwise I will focus on issues I find the most important.
 
 
 

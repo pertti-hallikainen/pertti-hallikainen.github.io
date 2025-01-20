@@ -7,13 +7,9 @@ translationKey: 'politik'
 
 ## Kuntavaalit 13.4.2025
 
-Olen ehdolla kuntavaaleissa, koska en halua vain valittaa asioista, vaan olla myös mukana tekemässä asioita. Ehdokkuus on luonnollinen tapa osallistua demokraattiseen päätöksentekoon. Minulle elämässäni tärkeitä asioita ovat yhteisöllisyys, tieteellinen maailmankuva, läheiset ihmiset sekä tarinat joita kerromme toisillemme ja jotka jäävät elämään vielä tulevienkin sukupolvien iloksi ja harmiksi. [Olen ehdolla Tampereen Vihreiden listalla](https://www.tampereenvihreat.fi/embed/kuntavaalit24/?kieli=fi&vaali=kuntavaalit-2025).
+Olen ehdolla kuntavaaleissa, koska en halua vain valittaa asioista, vaan myös tehdä jotain. Ehdokkuus on luonnollinen tapa osallistua demokraattiseen päätöksentekoon. Minulle elämässäni tärkeitä asioita ovat yhteisöllisyys, tieteellinen maailmankuva, läheiset ihmiset sekä tarinat joita kerromme toisillemme ja jotka jäävät sitten elämään vielä tulevienkin sukupolvien iloksi. [Olen ehdolla Tampereen Vihreiden listalla](https://www.tampereenvihreat.fi/embed/kuntavaalit24/?kieli=fi&vaali=kuntavaalit-2025).
 
-Kuntapolitiikka on veikeä laji. Huomaan jo että kilpailullinen puoleni yrittää syöttää minulle ajatuksia siitä mitä kaikkea minun pitäisi vaaleja varten tehdä ja miten. Koska aikaa on käytettävissä rajallisesti, yritän keskittyä olennaiseen.
-
-Meille on yritetty painottaa, että kaikkea ei tarvitse tehdä itse. Henkilökohtaisesti tukiryhmän kerääminen oman vaalikampanjan ympärille tuntuu minusta vaivalloiselta. Siksi olen itse oma kampanjapäällikköni ja tukitiimini ainoa jäsen. Jos haluat tukea minua tai auttaa kampanjan tekemisessä, voit ottaa minuun yhteyttä sosiaalisen median alustoilla tai sähköpostitse. Yhteystiedot löytyvät sivun alareunan palleroista.
-
-Kirjoitan tälle sivulle kaiken oleellisen vaalikampanjastani ja linkitän vaalikonevastaukseni. Arvostan politiikassa avoimuutta ja pyrin siihen että blogini vastaa äänestäjien tiedonsaantitarpeeseen myös vaalien jälkeen.
+Kuntapolitiikka on veikeä laji. Huomaan jo että kilpailullinen puoleni yrittää syöttää minulle ajatuksia siitä mitä kaikkea minun pitäisi ennen vaaleja tehdä. Koska aikaa on rajallisesti, yritän keskittyä olennaiseen. Arvostan politiikassa avoimuutta ja pyrin siihen että blogini vastaa äänestäjien tiedonsaantitarpeeseen myös vaalien jälkeen.
 
 # Vaaliteemat
 
