@@ -2,10 +2,10 @@
 
 Olen ehdokkaana vuoden 2025 kuntavaaleissa [Tampereen Vihreiden listalla](https://www.tampereenvihreat.fi/kuntavaalit24/?kieli=fi&vaali=kuntavaalit-2025&kunta=k837).
 
-Tässä oleellisimmat linkit joilla pääset eteenpäin:
+Oleellisimmat:
 - [Minusta](/fi/page/about/)
 - [Vaaliteemat](/fi/page/politik/)
 - [Tapahtumakalenteri](/fi/page/res/tapahtumakalenteri/)
 - [Linkkidumppi](/fi/page/res/linkkidumppi/)
 
-Vaalit järjestetään [13.4.2025.](https://vaalit.fi/alue-ja-kuntavaalit)
+[Vaalit järjestetään 13.4.2025.](https://vaalit.fi/alue-ja-kuntavaalit)

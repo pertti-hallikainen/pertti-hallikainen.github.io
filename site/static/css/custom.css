@@ -33,3 +33,8 @@ h2 {
 .single img {
   float: right
 }
+
+
+pre {
+  font-size: 1em;
+}

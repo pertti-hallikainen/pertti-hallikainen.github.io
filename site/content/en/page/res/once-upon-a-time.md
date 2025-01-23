@@ -45,6 +45,7 @@ translationKey: 'once-upon-a-time'
 - Peopleware: Productive Projects and Teams (DeMarco, Lister, 1987)
 - The Bell Jar (Sylvia Plath, 1963)
 - A Grief Observed (C. S. Lewis, 1961)
+- How We Learn to Be Brave (Mariann Budde, 2023)
 
 
 
@@ -76,6 +77,7 @@ translationKey: 'once-upon-a-time'
 - Phenomenon (1996)
 - Requiem for a dream (2000)
 - Stalker (1979)
+- Idiocracy (2006)
 
 
 ## TV-Shows to binge
@@ -88,6 +90,7 @@ translationKey: 'once-upon-a-time'
 - Queen's Gambit
 - Rick & Morty
 - Severance
+- The Handmaid's Tale
 
 ## Anime waiting list
 - [Spice and Wolf](https://en.wikipedia.org/wiki/Spice_and_Wolf) (2006)
