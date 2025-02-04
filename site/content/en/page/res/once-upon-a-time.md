@@ -29,7 +29,8 @@ translationKey: 'once-upon-a-time'
 - Blue Truth (David Deida, 2002)
 - Practical Philosophy (Spinoza, 1970)
 - Heartstopper (Oseman, 2016; also tv-series)
-- Captive Prince (C.S. Pacat, 2013)
+- ~~Captive Prince~~ (C.S. Pacat, 2013)
+- Prince's Gambit (C.S. Pacat, 2014)
 - The Road (Cormac McCarthy, 2006)
 - On Fairy Stories (J.R.R. Tolkien, 1947)
 - Characteristics of Games (The MIT Press, 2020)
@@ -46,7 +47,10 @@ translationKey: 'once-upon-a-time'
 - The Bell Jar (Sylvia Plath, 1963)
 - A Grief Observed (C. S. Lewis, 1961)
 - How We Learn to Be Brave (Mariann Budde, 2023)
-
+- Ruination (Anthony Reynolds, 2022)
+- Dune (Frank Herbert, 1965)
+- 1984 (George Orwell, 1949)
+- The Wheel of Time - series (Robert Jordan, 1990-)
 
 
 ## Finnish Literature
@@ -54,6 +58,7 @@ translationKey: 'once-upon-a-time'
 - Haluatko? Pieni kirja suostumuksesta (Nikulainen, 2024)
 - 'Toivo' ja 'Matkalla' (Ruska Lehikoinen, Mediapinta)
 - Äärioikeisto Suomessa (Into, 2012)
+- Atomisota vai rauha, Maailma Albert Einsteinin silmin (Raunhankirjallisuuden edistämisseura, 1980)
 
 
 ## Movies to see
@@ -95,3 +100,4 @@ translationKey: 'once-upon-a-time'
 ## Anime waiting list
 - [Spice and Wolf](https://en.wikipedia.org/wiki/Spice_and_Wolf) (2006)
 - Fullmetal Alchemist: Brotherhood (2009)
+- Golden Boy (1995)

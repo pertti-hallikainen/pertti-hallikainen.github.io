@@ -1,7 +1,7 @@
 +++
 title = 'Oikea aika surulle'
 subtitle = ''
-summary = 'Eikö ennen ollut'
+summary = 'Hiljaisuudessa eletty, jätetty sanomatta.'
 tags = ['runot']
 date = 2025-01-22T12:18:51+02:00
 draft = false

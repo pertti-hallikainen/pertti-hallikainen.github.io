@@ -1,21 +1,15 @@
 ---
-title: Tapahtumakalenteri
+title: Tapahtumat
 # subtitle:
 comments: false
 translationKey: 'tapahtumakalenteri'
 ---
 
 
-Yritän mainostaa [Instagramissa](https://www.instagram.com/prtthllknn) niitä tapahtumia joihin olen osallistumassa.
 
 
-
----
-
-## Kampanjatapahtumat
-
-- 1.2.2025 klo 12-16 Kaikille mielen tiloille - paneelikeskusteluja mielenterveydestä ([mainos Instagramissa](https://www.instagram.com/p/DEzwvFAKEao/?img_index=1))
-- 3.2.2025 at 12-14 Pirkanmaan Yrittäjien sidosryhmätilaisuus ([tapahtuman tiedot](https://www.yrittajat.fi/tapahtumat/pirkanmaan-yrittajien-sidosryhmatilaisuus/))
+- 11.2.2025 klo 19 Tuloeroiltamat - Live stream osoitteessa https://www.youtube.com/watch?v=zkfG6-GWZa0
+- 20.3.2025 klo 19 Vihreät tienviitat tulevaisuuteen - Live stream
 
 
 ---
@@ -26,7 +20,7 @@ Yritän mainostaa [Instagramissa](https://www.instagram.com/prtthllknn) niitä t
 
 ---
 
-## Kaupunginvaltuusto
+## [Kaupunginvaltuusto](https://www.tampere.fi/paattajat-ja-paatokset/kaupunginvaltuusto)
 
 En ole vielä valtuuston jäsen, mutta aion silti seurata minkälaisia asioita siellä on käsittelyssä.
 
@@ -44,3 +38,14 @@ En ole vielä valtuuston jäsen, mutta aion silti seurata minkälaisia asioita s
 - maanantai 10.11.2025 talousarviokokous klo 9.00  
 - maanantai 17.11.2025  
 - maanantai 15.12.2025
+
+
+
+# Menneet tapahtumat
+
+- 3.2.2025 Pirkanmaan Yrittäjien sidosryhmätilaisuus ([tapahtuman tiedot](https://www.yrittajat.fi/tapahtumat/pirkanmaan-yrittajien-sidosryhmatilaisuus/))
+- 1.2.2025 Kaikille mielen tiloille - paneelikeskusteluja mielenterveydestä ([mainos Instagramissa](https://www.instagram.com/p/DEzwvFAKEao/?img_index=1))
+- 28.1.2025 Ehdokastapaaminen muiden vihreiden ehdokkaiden kanssa
+- 25.1.2025 Tampereen Seudun Vihreiden Naisten kampanja-avaus ja kahvit puoluesihteeri Anna Moringin kanssa
+- 24.1.2025 Vahva kunta, viisaat ilmastopäätökset - [Webinaari](https://www.aalto.fi/fi/tapahtumat/vahva-kunta-viisaat-ilmastopaatokset)
+- 23.1.2025 [Mielen ry](https://mielen.fi/) esittely, osa Jaakko Mustakallion "Kutsu pormestariehdokas kylään" vierailuja kolmannen sektorin järjestöissä

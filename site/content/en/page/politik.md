@@ -19,7 +19,7 @@ I will write on this page all things relevant to my campaign. This follows my id
 
 
 
-# Election Themes
+## Election Themes
 
 ### 1. If climate emergency is not declared nationwide, we can do it locally
 

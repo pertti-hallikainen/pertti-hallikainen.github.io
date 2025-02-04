@@ -11,7 +11,7 @@ Olen ehdolla kuntavaaleissa, koska en halua vain valittaa asioista, vaan myös t
 
 Kuntapolitiikka on veikeä laji. Huomaan jo että kilpailullinen puoleni yrittää syöttää minulle ajatuksia siitä mitä kaikkea minun pitäisi ennen vaaleja tehdä. Koska aikaa on rajallisesti, yritän keskittyä olennaiseen. Arvostan politiikassa avoimuutta ja pyrin siihen että blogini vastaa äänestäjien tiedonsaantitarpeeseen myös vaalien jälkeen.
 
-# Vaaliteemat
+## Vaaliteemat
 
 ### 1. Jos ilmastohätätilaa ei julisteta valtakunnnallisesti, voimme tehdä sen paikallisesti
 
