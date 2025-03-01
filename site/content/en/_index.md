@@ -6,7 +6,6 @@ The relevant bits:
 - [About me](/page/about/)
 - [Campaign themes](/page/politik/)
 - [Event calendar](/page/res/event-calendar/)
-- [News stack](/posts/news-stack/001/)
 
 
 The election will be held 13th of April, 2025.

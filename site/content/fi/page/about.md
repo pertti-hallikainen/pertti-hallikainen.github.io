@@ -1,5 +1,5 @@
 ---
-title: Aböut
+title: Hei
 # subtitle:
 comments: false
 translationKey: 'about'
@@ -11,29 +11,32 @@ translationKey: 'about'
 
 
 
-## Hei!
+## 
 
 
 
-- Nimeni on Pertti. Perheen kesken minua kutsutaan myös Pepeksi.
+- Nimi on Pertti. Läheiset kutsuvat myös Pepeksi.
 - Olen 34-vuotias ja asun Tampereella.
-- Olen koulutukseltani fyysikko.
+- Olen koulutukseltani fyysikko. Pärjäsin siinä ja halusin tietää miten maailma toimii. Lempparifyysikkoni on Richard Feynman. Tietenkin on.
 - Olen tehnyt töitä sovellusasiantuntijana, tosin juuri nyt olen työtön.
-- Vapaa-ajallani pelaan videopelejä. Teen myös vapaaehtoistyötä SPR:n Tampereen osaston kielikahviloissa ja suomen kielen opetuksessa.
-- Olen laajasti kiinnostunut filosofiasta, yhteiskuntatieteistä, peliteoriasta jne.
+- Vapaa-ajallani pelaan videopelejä, tosin nyt vaalien alla on ollut paljon muuta tekemistä. Teen myös vapaaehtoistyötä SPR:n kielikahviloissa ja suomen kielen opetuksessa.
+- Olen laajasti kiinnostunut filosofiasta, yhteiskuntatieteistä, historiasta jne.
 
 ## Työt ja opiskelut
-- Olen ollut työtön vuodesta 2022 lähtien. Minulle on ollut tärkeä laittaa oma terveyteni etusijalle ja viettää enemmän aikaa minulle rakkaiden läheisten kanssa. Olen myös työstänyt yhtä kirjoitusprojektia ja muutamaa peli-ideaa.
-- Vuosina 2016-2022 olin töissä Helsingissä Tilastokeskuksella sovellusasiantuntijana. Ohjelmoin tilastotuotannossa käytettyjä sovelluksia, esimerkiksi yritysrekisteriä.
-- Vuosina 2009-2015 opiskelin fysiikkaa Jyväskylän yliopistossa. Valmistuin filosofian maisteriksi vuonna 2015. Sivuaineina opiskelin matematiikkaa ja tietotekniikkaa.
+
+- Vuosina 2009-2015 opiskelin fysiikkaa Jyväskylän yliopistossa. Sivuaineina opiskelin matematiikkaa ja tietotekniikkaa. Valmistuin filosofian maisteriksi vuonna 2015. 
+- Vuosina 2016-2022 olin töissä Helsingissä Tilastokeskuksella sovellusasiantuntijana. Ohjelmoin esimerkiksi yritysrekisteriä.
+- Olen ollut työtön vuodesta 2022 lähtien. Minulle on ollut tärkeä laittaa oma terveyteni etusijalle ja viettää enemmän aikaa minulle rakkaiden läheisten kanssa. Olen työstänyt yhtä kirjoitusprojektia ja muutamaa peli-ideaa.
+
+
 
 ## Politiikka
 
-Olen ollut Vihreiden jäsen vuodesta 2011 lähtien. Vuonna 2012 olin ehdolla kunnallisvaaleissa Jyväskylässä. Helsingissä asuessani en osallistunut politiikkaan. En tuolloin tehnyt tarpeeksi löytääkseni itselleni omaa yhteisöä. Työttömyys on sallinut minun käyttää aikaa siihen että tiedän omat prioriteettini ja vahvistanut myös kykyäni toimia niiden mukaisesti. Nyt vuonna 2025 olen ehdolla kuntavaaleissa Tampereen vihreiden listalla.
+Olen ollut Vihreiden jäsen vuodesta 2011 lähtien. Vuonna 2012 olin ehdolla kunnallisvaaleissa Jyväskylässä, sain 14 ääntä. Helsingissä asuessani en osallistunut politiikkaan. Pysyin Helsingissä omalla mukavuusalueellani enkä tehnyt juuri mitään löytääkseni itselleni omaa yhteisöä. Palkkatyössä jaksoin kunnes en enää jaksanut, viihdyin kunnes en enää viihtynyt. Sairasloma ja työttömyys ovat sallineet minun pitää paremmin huolta itsestäni ja nyt vuonna 2025 olen ehdolla kuntavaaleissa Tampereen vihreiden listalla.
 
-Olen poliittisilta näkemyksiltäni vasemmalle kallellaan. Olen erittäin kiinnostunut keinoista joilla voimme pehmentää siirtymää fossiilitaloudesta kohti kestävämpää, tehokkaammin luonnonvaroja käyttävää yhteiskuntaa, joka pyörii puhtaalla, uusiutuvalla energialla. 
+Olen poliittisilta näkemyksiltäni vasemmalle kallellaan. Haluan että teemme siirtymän fossiilitaloudesta kohti kestävämpää, tehokkaammin luonnonvaroja käyttävää yhteiskuntaa, joka pyörii puhtaalla, uusiutuvalla energialla. 
 
-Tampere vaikuttaa ensisilmäykseltä aivan tavalliselta suomalaiselta kaupugilta. Tänne ovat tervetulleita kaikki, myös pakolaiset ja maahanmuuttajat, ja pidämme yhdessä huolta että kaupunki on kaikille turvallinen. Kaupungin asukasluvun kasvu tulee jatkumaan. Kasvun vastuullinen ohjaaminen tulee olemaan uuden kaupunginvaltuuston tärkein tehtävä.
+Tampere vaikuttaa ensisilmäykseltä aivan tavalliselta suomalaiselta kaupugilta. Tänne ovat tervetulleita kaikki, myös pakolaiset ja maahanmuuttajat, ja pidämme yhdessä huolta että kaupunki on kaikille turvallinen. Kaupungin asukasluvun kasvu tulee jatkumaan. Palveluiden laadun ja saatavuuden turvaaminen tulee olemaan uuden kaupunginvaltuuston tärkein tehtävä.
 
 Aion koota blogiini nostoja paikallispolitiikasta ja joitain havaintoja maailman menosta laajemmalla putkella. Kirjoittaminen on tavoitteellista.
 

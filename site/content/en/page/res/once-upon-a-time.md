@@ -51,6 +51,10 @@ translationKey: 'once-upon-a-time'
 - Dune (Frank Herbert, 1965)
 - 1984 (George Orwell, 1949)
 - The Wheel of Time - series (Robert Jordan, 1990-)
+- Hamlet (Shakespeare, 1603)
+- The Time Machine (H.G. Wells, 1895)
+- Don Quixote (Miguel de Cervantes, 1605)
+- The Master and Margarita (Saatana saapuu Moskovaan; Mikhail Bulgakov, 1966)
 
 
 ## Finnish Literature
@@ -72,7 +76,7 @@ translationKey: 'once-upon-a-time'
 - the greatest hits (2024)
 - Her (2013)
 - the apartment (1960)
-- Django unchained
+- Django unchained (2012)
 - Challengers (2024)
 - ~~The Green Knight (2021)~~
 - ~~les miserables (1998)~~
@@ -83,6 +87,11 @@ translationKey: 'once-upon-a-time'
 - Requiem for a dream (2000)
 - Stalker (1979)
 - Idiocracy (2006)
+- Fistful of dollars (1964)
+- For a few dollars more (1965)
+- The good, the bad and the ugly (1966)
+- The Devil's Advocate (1997)
+
 
 
 ## TV-Shows to binge

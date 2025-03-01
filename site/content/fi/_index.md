@@ -6,6 +6,5 @@ Oleellisimmat:
 - [Minusta](/fi/page/about/)
 - [Vaaliteemat](/fi/page/politik/)
 - [Tapahtumakalenteri](/fi/page/res/tapahtumakalenteri/)
-- [Linkkidumppi](/fi/posts/linkkidumppi/001/)
 
 Vaalit järjestetään 13.4.2025.
