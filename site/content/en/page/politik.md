@@ -7,7 +7,7 @@ translationKey: 'politik'
 
 ## Municipal elections 13.4.2025
 
-I am a candidate in the municipal elections because I don't only want to complain about how things are, I also want to take action to improve them. Being a candidate is a natural way to participate in democratic decision-making. I value community, hold a worldview that I would describe as scientific and enjoy the company of my loved ones and the stories we tell each other. I am a candidate for [Tampereen Vihreät](https://www.tampereenvihreat.fi/embed/kuntavaalit24/?kieli=fi&vaali=kuntavaalit-2025), the Green Party.
+I am a candidate in the municipal elections because I don't only want to complain about how things are, I also want to take action to improve them. Being a candidate is a natural way to participate in democratic decision-making. I value community, hold a worldview that I would describe as scientific and enjoy the company of my loved ones and the stories we tell each other. I am a candidate for [Tampereen Vihreät](https://www.tampereenvihreat.fi/kuntavaalit25/?kieli=en&vaali=kuntavaalit-2025&kunta=k837&ehdokas=hallikainen-pertti-7283), the Green Party.
 
 Municipal politics is a bit of a weird sport. I'm hoping the representatives who get elected into the city council are reasonable people, with whom it is possible to hold a conversation and to work together to develop the city in a healthy direction. Our decision-making process should be robust in such a way that people can trust their taxes are spent responsibly and that the city provides it's services at sufficient quantity and quality.
 
@@ -33,14 +33,14 @@ I've written more on climate change [here.](/posts/thoughts-on-climate-change/)
 
 Group sizes in schools, teacher turnover rate and sick leaves, school bullying and learning results must be regularly monitored by the education board. Schools need peace for learning, but also sufficient resources. The city must ensure there are enough teaching assistants, special education teachers, school social workers and psychologists. Additional training for teachers must be available, encouraged and rewarded in pay. Schools should promote and further develop democracy education and anti-racism education.
 
-### 3. Safety requires work and action from all of us
+### 3. Access to work improves social security and urban safety
 
-Employment brings security to individuals and thus to all residents. When the employment and economic development services (TE-services) are transferred from the state to the city, we must seize the opportunity and usher the expertise of our TE-workers, find new routes of open-minded co-operation and new opportunities and work for our over 23000 unemployed people. Work should not be a privilege, and it should not be as cumbersome to mold a career path for yourself, be it part-time, temporary or whether in the public, private or the third sector. To improve work-life balance and share work evenly, the city could offer a 4-day work week for workers where applicable.
+Employment brings security to individuals and thus to all residents. When the employment and economic development services (TE-services) are transferred from the state to the city, we must seize the opportunity and find work for our over 23000 unemployed people. Work should not be a privilege, and it should not be as cumbersome to mold a career for yourself, be it part-time, temporary or in the public, private or the third sector. To improve work-life balance and share work more evenly, the city should offer a 4-day work week where applicable.
 
 Safety is also created by functional social and health services, substance abuse services and prevention of homelessness. Tampere should increase the capacity of shelters for victims of domestic abuse.
 
 
-[Full list of Green candidates in Tampere](https://www.tampereenvihreat.fi/kuntavaalit24/?kieli=en&vaali=kuntavaalit-2025&kunta=k837)
+[Full list of Green candidates in Tampere](https://www.tampereenvihreat.fi/kuntavaalit25/?kieli=en&vaali=kuntavaalit-2025&kunta=k837)
 
 For the county election (which is a separate thing), check out [the candidates set by Pirkanmaan Vihreät](https://www.pirkanmaanvihreat.fi/embed/aluevaalit-ehdokkaat/?kieli=fi&vaali=aluevaalit-2025&alue=pirkanmaa).
 
