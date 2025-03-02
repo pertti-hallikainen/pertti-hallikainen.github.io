@@ -1,6 +1,6 @@
 ## Welcome! &#129716;
 
-I am a candidate for [the Tampere Greens](https://www.tampereenvihreat.fi/kuntavaalit24/?kieli=fi&vaali=kuntavaalit-2025&kunta=k837) in the upcoming municipal elections.
+I am a candidate for [the Tampere Greens](https://www.tampereenvihreat.fi/kuntavaalit25/?kieli=en&vaali=kuntavaalit-2025&kunta=k837&ehdokas=hallikainen-pertti-7283) in the upcoming municipal elections.
 
 The relevant bits:
 - [About me](/page/about/)
