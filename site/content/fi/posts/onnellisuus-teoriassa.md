@@ -61,7 +61,7 @@ Meillä on monta filosofiaa ja uskontoa, jotka kertovat miten onneen voi pääst
 
 Jos onni on niin katoavaista kuin väitetään, kannattaako sitä edes tavoitella? Saati että se nostettaisiin poliittisen toiminnan korkeimmaksi tavoitteeksi? Tässä kelmeässä valossa kaikki vaikuttaa turhalta, ja turhuuden ylistys saa kotisohvan näyttämään maan korkeimmalta valtaistuimelta. Jos välinpitämättömyyttä vastaan olisi jollakin esittää vasta-argumentteja, niiden pitäisi perustua johonkin arvoon, jota ihminen ei voi hylätä. Mihin tahansa.
 
-En usko että olisi olemassa ihmistä joka ei haluaisi mitään.
+En usko, että olisi olemassa ihmistä, joka ei haluaisi mitään.
 
 Hänkin joka kieltäytyy kaikesta, haluaa kieltäytyä. Kieltäymys on silloin hänen korkeimpansa. Ihmisellä on aina jotkut arvot ja niiden mukaan eläminen, niiden tavoittelu, tuo onnen. Halusi sitä tai ei.
 
@@ -75,5 +75,7 @@ Hänkin joka kieltäytyy kaikesta, haluaa kieltäytyä. Kieltäymys on silloin h
 [Happiness of the younger, the older, and those in between | The World Happiness Report](https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)
 
 [Miljardöörejä on ennätysmäärä, ja heidän veroprosenttinsa on mitätön – tämä muuttuu pian, sanoo tutkija | Talous | Yle](https://yle.fi/a/74-20103923)
+
+[Suurituloisimmat ovat Suomessa onnellisimpia | HS.fi](https://www.hs.fi/suomi/art-2000011077021.html)
 
 [Onnellisuusteoriat - Terveyskirjasto](https://www.terveyskirjasto.fi/ont00101)
