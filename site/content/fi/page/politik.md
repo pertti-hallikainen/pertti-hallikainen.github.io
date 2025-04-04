@@ -9,7 +9,32 @@ translationKey: 'politik'
 
 Olen ehdolla kuntavaaleissa, koska en halua vain valittaa asioista, vaan myös tehdä jotain. Ehdokkuus on luonnollinen tapa osallistua demokraattiseen päätöksentekoon. Minulle elämässäni tärkeitä asioita ovat yhteisöllisyys, tieteellinen maailmankuva, läheiset ihmiset sekä tarinat joita kerromme toisillemme ja jotka jäävät sitten elämään vielä tulevienkin sukupolvien iloksi. [Olen ehdolla Tampereen Vihreiden listalla](https://www.tampereenvihreat.fi/kuntavaalit25/?kieli=en&vaali=kuntavaalit-2025&kunta=k837&ehdokas=hallikainen-pertti-7283).
 
-Kuntapolitiikka on veikeä laji. Huomaan jo että kilpailullinen puoleni yrittää syöttää minulle ajatuksia siitä mitä kaikkea minun pitäisi ennen vaaleja tehdä. Koska aikaa on rajallisesti, yritän keskittyä olennaiseen. Arvostan politiikassa avoimuutta ja pyrin siihen että blogini vastaa äänestäjien tiedonsaantitarpeeseen myös vaalien jälkeen.
+<!-- Arvostan politiikassa avoimuutta ja pyrin siihen että blogini vastaa äänestäjien tiedonsaantitarpeeseen myös vaalien jälkeen. --> 
+
+
+### Vaalilupaukset
+1. Lupaan vähentää Tampereen hiilidioksidipäästöjä hiilineutraali Tampere 2030 tavoitteiden mukaisesti.
+2. Lupaan edistää koulujen työrauhaa esimerkiksi asettamalla maksimi ryhmäkoot ja riittävät opettajaresurssit.
+3. Lupaan edistää kuntapolitiikan avoimuutta kertomalla mielipiteeni ajoissa ja kirjoittamalla ajankohtaisista päätösasioista kotisvivuillani.
+
+
+### Vaalikoneet
+- [Pertti Hallikainen | Kuntavaaliehdokas 2025 | Yle](https://vaalit.yle.fi/vaalikone/kuntavaalit2025/228/ehdokkaat/2510?language=fi)
+- [Kunta- ja aluevaalien vaalikone on avattu: Vastaa ja löydä ehdokkaasi | HS.fi](https://www.hs.fi/politiikka/art-2000011075959.html)
+- [Vaalikone | Keskisuomalainen](https://www.ksml.fi/vaalikone/#/101/kotikunta/837/ehdokkaat/5592)
+- [Vaalikone - Alue- ja kuntavaalit 2025 - MTVuutiset.fi - Pertti Hallikainen](https://www.mtvuutiset.fi/vaalikone/101/vaalipiiri/348/ehdokkaat/7375)
+- [Pertti Hallikainen, vaalikoneen vastaukset - uskonnonvapaus.fi](https://uskonnonvapaus.fi/vaalit/kunta25/ehdokas/1689)
+- [Pertti Hallikainen – Nuorten vaalikone](https://nuortenvaalikone.openvaa.org/fi/results/candidate/nwazyr9vcwrhc0ns7x5gnd2d?constituencyId[0]=ftw18l9t32fgu5gdmshew1uj&constituencyId[1]=jkkte2qznq7qerp6idfm7dlu&nominationId=auto_3692493919427277)
+
+
+### Sitoumukset
+- [SETA - Kunta- ja hyvinvointialuevaalit 2025](https://seta.fi/ihmisoikeudet/vaalit-ja-kampanjat/kunta-ja-hyvinvointialuevaalit-2025/?)
+- [Kuntavaalit 2025 Lähimetsäsitoumus - Suomen luonnonsuojeluliitto](https://www.sll.fi/opi-lisaa/metsat/kuntavaalit/)
+- [Puolet parempaa äänestäjän sitoumus: kuntavaalit 2025 - Greenpeace Suomi](https://www.greenpeace.org/finland/toimi/puolet-parempaa-aanestajalle/)
+- [Ääni lapselle -ehdokkaan teesit 2025 | Lastensuojelun Keskusliitto](https://www.lskl.fi/aanilapselle/aani-lapselle-ehdokkaan-teesit-2025/)
+
+
+---
 
 ## Vaaliteemat
 

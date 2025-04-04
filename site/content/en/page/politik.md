@@ -9,13 +9,35 @@ translationKey: 'politik'
 
 I am a candidate in the municipal elections because I don't only want to complain about how things are, I also want to take action to improve them. Being a candidate is a natural way to participate in democratic decision-making. I value community, hold a worldview that I would describe as scientific and enjoy the company of my loved ones and the stories we tell each other. I am a candidate for [Tampereen Vihreät](https://www.tampereenvihreat.fi/kuntavaalit25/?kieli=en&vaali=kuntavaalit-2025&kunta=k837&ehdokas=hallikainen-pertti-7283), the Green Party.
 
-Municipal politics is a bit of a weird sport. I'm hoping the representatives who get elected into the city council are reasonable people, with whom it is possible to hold a conversation and to work together to develop the city in a healthy direction. Our decision-making process should be robust in such a way that people can trust their taxes are spent responsibly and that the city provides it's services at sufficient quantity and quality.
-
 If you are unfamiliar with the Finnish Green Party, you can find the best summary of who we are from our [political programme.](https://www.greens.fi/political-programme-of-the-greens-2023-2027/)
 
-For my campaign, I will try to split my time between writing these campaign materials and then going out there to spread the message to as many people as I can. I am already feeling a bit of a competitive spirit; I want to get a good amount of votes for my group and for my own stash. As you might be aware, the world is not yet complete and if we want to change something about it, it is within our power to try to do so.
+Municipal politics is a bit of a weird sport. I'm hoping the representatives who get elected into the city council are reasonable people, with whom it is possible to co-operate to develop the city in a healthy direction. Our decision-making process should be robust in such a way that people can trust their taxes are spent responsibly and that the city provides it's services at sufficient quantity and quality.
 
-I will write on this page all things relevant to my campaign. This follows my ideal of transparency in politics, both during and after elections. If there is a specific issue you want to know my opinion on, you can contact me with the social links below or join the conversation on [Threads](https://www.threads.net/@prtthllknn). Otherwise I will focus on issues I find the most important.
+If there is a specific issue you want to know my opinion on, you can contact me with the social links at the bottom of the page.
+
+
+### Campaign Promises
+1. I promise to reduce the city's carbondioxide emissions in accordance with the carbon neutral Tampere 2030 roadmap.
+2. I promise to maintain and improve learning conditions in schools, for example by setting maximum group sizes and sufficient teacher resources.
+3. I promise to promote openness in municipal politics by sharing my opinion well in advance and writing about current proceedings of the city council on my webpage.
+
+
+### Election Compass
+- [Pertti Hallikainen | Kuntavaaliehdokas 2025 | Yle](https://vaalit.yle.fi/vaalikone/kuntavaalit2025/228/ehdokkaat/2510?language=fi)
+- [Kunta- ja aluevaalien vaalikone on avattu: Vastaa ja löydä ehdokkaasi | HS.fi](https://www.hs.fi/politiikka/art-2000011075959.html)
+- [Vaalikone | Keskisuomalainen](https://www.ksml.fi/vaalikone/#/101/kotikunta/837/ehdokkaat/5592)
+- [Vaalikone - Alue- ja kuntavaalit 2025 - MTVuutiset.fi - Pertti Hallikainen](https://www.mtvuutiset.fi/vaalikone/101/vaalipiiri/348/ehdokkaat/7375)
+- [Pertti Hallikainen, vaalikoneen vastaukset - uskonnonvapaus.fi](https://uskonnonvapaus.fi/vaalit/kunta25/ehdokas/1689)
+- [Pertti Hallikainen – Nuorten vaalikone](https://nuortenvaalikone.openvaa.org/fi/results/candidate/nwazyr9vcwrhc0ns7x5gnd2d?constituencyId[0]=ftw18l9t32fgu5gdmshew1uj&constituencyId[1]=jkkte2qznq7qerp6idfm7dlu&nominationId=auto_3692493919427277)
+
+
+### Campaign Pledges
+- [SETA - Kunta- ja hyvinvointialuevaalit 2025](https://seta.fi/ihmisoikeudet/vaalit-ja-kampanjat/kunta-ja-hyvinvointialuevaalit-2025/?)
+- [Kuntavaalit 2025 Lähimetsäsitoumus - Suomen luonnonsuojeluliitto](https://www.sll.fi/opi-lisaa/metsat/kuntavaalit/)
+- [Puolet parempaa äänestäjän sitoumus: kuntavaalit 2025 - Greenpeace Suomi](https://www.greenpeace.org/finland/toimi/puolet-parempaa-aanestajalle/)
+- [Ääni lapselle -ehdokkaan teesit 2025 | Lastensuojelun Keskusliitto](https://www.lskl.fi/aanilapselle/aani-lapselle-ehdokkaan-teesit-2025/)
+
+
 
 
 
@@ -37,7 +59,7 @@ Group sizes in schools, teacher turnover rate and sick leaves, school bullying a
 
 Employment brings security to individuals and thus to all residents. When the employment and economic development services (TE-services) are transferred from the state to the city, we must seize the opportunity and find work for our over 23000 unemployed people. Work should not be a privilege, and it should not be as cumbersome to mold a career for yourself, be it part-time, temporary or in the public, private or the third sector. To improve work-life balance and share work more evenly, the city should offer a 4-day work week where applicable.
 
-Safety is also created by functional social and health services, substance abuse services and prevention of homelessness. Tampere should increase the capacity of shelters for victims of domestic abuse.
+Safety is also created by well working social and health services, substance abuse services and prevention of homelessness. Tampere should increase the capacity of shelters for victims of domestic abuse.
 
 
 [Full list of Green candidates in Tampere](https://www.tampereenvihreat.fi/kuntavaalit25/?kieli=en&vaali=kuntavaalit-2025&kunta=k837)
