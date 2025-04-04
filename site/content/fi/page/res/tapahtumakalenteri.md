@@ -7,9 +7,8 @@ translationKey: 'tapahtumakalenteri'
 
 
 
-
-- 1.3-2.3.2025 Mitä sulle kuuluu - lettukiertue Itä-Tampereella
-- 20.3.2025 klo 19 Vihreät tienviitat tulevaisuuteen - Live stream
+- 13.4.2025 Vaalivalvojaiset klo 18 alkaen, Ravintola Daisy, Kehräsaari
+- Vaalimökki auki joka päivä 12.4. asti, klo 11-18, Keskustori
 
 
 ---
@@ -43,6 +42,8 @@ En ole vielä valtuuston jäsen, mutta aion silti seurata minkälaisia asioita s
 
 # Menneet tapahtumat
 
+- 20.3.2025 Vihreät tienviitat tulevaisuuteen - [Live stream](https://www.youtube.com/watch?v=qP6RVdLC8pw)
+- 1.3-2.3.2025 Mitä sulle kuuluu - lettukiertue Itä-Tampereella
 - 25.2.2025 [A-klinikkasäätiö](https://a-klinikkasaatio.fi/) esittely
 - 11.2.2025 [Kumppanuustalo Artteli](https://www.artteli.fi/) esittely
 - 11.2.2025 Tuloeroiltamat - Live stream osoitteessa https://www.youtube.com/watch?v=zkfG6-GWZa0
