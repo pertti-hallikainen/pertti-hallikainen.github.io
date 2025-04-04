@@ -3,6 +3,13 @@
   background: #76b266
 }
 
+@media (prefers-color-scheme: dark) {
+  .navbar-custom {
+    background: rgb(0, 88, 9);
+    color: #dcb;
+  }
+}
+
 
 
 
