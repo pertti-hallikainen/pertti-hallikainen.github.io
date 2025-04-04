@@ -4,7 +4,7 @@ languageCode = 'en-us'
 title = 'Pertti Hallikainen'
 theme = 'beautifulhugo'
 summaryLength = 0
-#cleanDestinationDir = true
+cleanDestinationDir = true
 
 
 [Params]
