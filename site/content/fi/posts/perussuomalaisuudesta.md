@@ -1,8 +1,9 @@
 +++
-title = 'perussuomalaisuudesta'
+title = 'Perussuomalaisuudesta'
 subtitle = ''
-summary = ''
+summary = 'Perussuomalaisten politiikkaa määrittää haitallisen kapea kuva suomalaisuudesta uhanalaisena ja suojelun tarpeessa olevana etnisenä identiteettinä, minkä seurauksena Suomesta pitää tehdä entistä pienempi, heikompi ja sisäänpäinkääntyvämpi kansakunta.'
 tags = ['politik', 'maahanmuutto', 'antirasismi']
+weight = 20
 date = 2024-09-29T12:18:51+02:00
 draft = false
 +++

@@ -3,6 +3,7 @@ title = 'Niin metsä vastaa'
 subtitle = ''
 summary = 'kuin sinne huutaa'
 tags = ['politik', 'talous', 'tampere', 'ilmastonmuutos', 'maahanmuutto', 'turvallisuus']
+weight = 20
 date = 2025-03-19T12:18:51+02:00
 draft = false
 +++

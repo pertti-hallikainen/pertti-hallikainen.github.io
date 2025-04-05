@@ -3,6 +3,7 @@ title = 'The Right Time for Grief'
 subtitle = ''
 summary = 'One of the poems I had in me. There are couple others where this came from, still taking form.'
 tags = ['poetry']
+weight = 20
 date = 2025-01-22T12:18:51+02:00
 draft = false
 translationKey = 'oikea-aika-surulle'

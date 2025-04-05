@@ -3,6 +3,7 @@ title = 'Turvallisuudesta'
 subtitle = ''
 summary = 'Osallistuin Hervannan kirjastossa tilaisuuteen, jossa esiteltiin turvallisuuskyselyn tuloksia.'
 tags = ['politik', 'turvallisuus', 'yhteisöllisyys', 'hervanta', 'tampere']
+weight = 20
 date = 2024-10-31T12:18:51+02:00
 draft = false
 +++

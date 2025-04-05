@@ -3,6 +3,7 @@ title = 'Oikea aika surulle'
 subtitle = ''
 summary = 'Hiljaisuudessa eletty, jätetty sanomatta.'
 tags = ['runot']
+weight = 20
 date = 2025-01-22T12:18:51+02:00
 draft = false
 translationKey = 'oikea-aika-surulle'

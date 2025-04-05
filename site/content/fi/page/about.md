@@ -17,9 +17,9 @@ translationKey: 'about'
 
 - Nimi on Pertti. Läheiset kutsuvat myös Pepeksi.
 - Olen 34-vuotias ja asun Tampereella.
-- Olen koulutukseltani fyysikko. Pärjäsin siinä ja halusin tietää miten maailma toimii. Lempparifyysikkoni on Richard Feynman. Tietenkin on.
+- Olen koulutukseltani fyysikko. Pärjäsin siinä ja halusin tietää miten maailma toimii.
 - Olen tehnyt töitä sovellusasiantuntijana, tosin juuri nyt olen työtön.
-- Vapaa-ajallani pelaan videopelejä, tosin nyt vaalien alla on ollut paljon muuta tekemistä. Teen myös vapaaehtoistyötä SPR:n kielikahviloissa ja suomen kielen opetuksessa.
+- Vapaa-ajallani minulla oli tapana pelata videopelejä, mutta nyt vaalien alla on ollut paljon muuta tekemistä. Teen myös vapaaehtoistyötä SPR:n kielikahviloissa ja suomen kielen opetuksessa.
 - Olen laajasti kiinnostunut filosofiasta, yhteiskuntatieteistä, historiasta jne.
 
 ## Työt ja opiskelut
@@ -36,11 +36,10 @@ Olen ollut Vihreiden jäsen vuodesta 2011 lähtien. Vuonna 2012 olin ehdolla kun
 
 Olen poliittisilta näkemyksiltäni vasemmalle kallellaan. Haluan että teemme siirtymän fossiilitaloudesta kohti kestävämpää, tehokkaammin luonnonvaroja käyttävää yhteiskuntaa, joka pyörii puhtaalla, uusiutuvalla energialla. 
 
-Tampere vaikuttaa ensisilmäykseltä aivan tavalliselta suomalaiselta kaupugilta. Tänne ovat tervetulleita kaikki, myös pakolaiset ja maahanmuuttajat, ja pidämme yhdessä huolta että kaupunki on kaikille turvallinen. Kaupungin asukasluvun kasvu tulee jatkumaan. Palveluiden laadun ja saatavuuden turvaaminen tulee olemaan uuden kaupunginvaltuuston tärkein tehtävä.
+Tampere vaikuttaa ensisilmäykseltä aivan tavalliselta suomalaiselta kaupugilta. Tänne ovat tervetulleita kaikki, myös pakolaiset ja maahanmuuttajat, ja pidämme yhdessä huolta että kaupunki on kaikille turvallinen. Kaupungin kasvaessa myös tarve sen tuottamille palveluille kasvaa. Palveluiden laadun ja saatavuuden turvaaminen on uuden kaupunginvaltuuston tärkein tehtävä.
 
 Aion koota blogiini nostoja paikallispolitiikasta ja joitain havaintoja maailman menosta laajemmalla putkella. Kirjoittaminen on tavoitteellista.
 
 ---
 
-- [Threads.net/@prtthllknn](https://www.threads.net/@prtthllknn)
 - [Kirjahylly](/fi/page/res/olipa-kerran/)

@@ -3,6 +3,7 @@ title = 'Tampereen talousarvio 2025'
 subtitle = ''
 summary = 'Valtuuston kokous 11.11.2024'
 tags = ['talous', 'tampere', 'politik']
+weight = 20
 date = 2024-11-13T12:18:51+02:00
 draft = false
 +++

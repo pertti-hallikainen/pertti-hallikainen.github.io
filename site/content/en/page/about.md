@@ -13,7 +13,7 @@ translationKey: 'about'
 
 - My name is Pertti. My family may occasionally call me Pepe.
 - I'm 34 years old and I live in Tampere, Finland.
-- I've graduated with a major in physics. I was good at it and wanted to know how the world works. Richard Feynman if my favorite physicist.
+- I've graduated with a major in physics. I was good at it and wanted to know how the world works.
 - I used to work as a software developer, but now I'm unemployed.
 - In my free time I play video games, although election season has kept me too busy to play much.
 - I volunteer for the Finnish Red Cross, teaching Finnish to immigrants.

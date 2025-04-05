@@ -3,6 +3,7 @@ title = 'Onnellisuus, teoriassa'
 subtitle = ''
 summary = 'niin kuin minä asian ymmärrän'
 tags = ['politik', 'talous', 'filosofia']
+weight = 30
 date = 2025-03-06T12:18:51+02:00
 draft = false
 +++

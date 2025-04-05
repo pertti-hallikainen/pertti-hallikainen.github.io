@@ -57,7 +57,7 @@ defaultContentLanguageInSubdir = true
 
 
 
-[Author]
+[Params.author]
   # full list of supported socials: https://github.com/halogenica/beautifulhugo/blob/master/data/beautifulhugo/social.toml
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Pertti Hallikainen"
@@ -69,6 +69,8 @@ defaultContentLanguageInSubdir = true
   # twitter = "Prtthllknn"
   linkedin = "pertti-hallikainen-33b1a210b"
   youtube = "@PerttiHallikainen"
+  threads = "@prtthllknn"
+  bluesky = "prtthllknn.bsky.social"
 
 
 

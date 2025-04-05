@@ -1,0 +1,4 @@
+<!-- Customizations: add custom_css-->
+{{ range .Site.Params.custom_css -}}
+  <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}
