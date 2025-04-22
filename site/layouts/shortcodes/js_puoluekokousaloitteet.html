@@ -1,0 +1,89 @@
+
+    <div class="row">
+        <div class="column">
+            <div>
+                <label>Vuosi: </label>
+                <input type="number" class="on-change-filter" id="minYear" name="minYear" min="2004" max="2024" value="2004" />
+                <span> - </span>
+                <input type="number" class="on-change-filter" id="maxYear" name="maxYear" min="2004" max="2024" value="2024" />
+            </div>
+            <input type="checkbox" id="hideTopics" /><label for="hideTopics">Piilota aihesanat</label><br>
+            <input type="checkbox" id="requireAllCategories" /><label for="requireAllCategories">Tiukka rajaus</label>
+        </div>
+        <div class="column">
+            <br>
+            <input type="checkbox" class="on-change-filter" id="categoryPolitical" checked/><label for="categoryPolitical">Poliittiset aloitteet</label><br>
+            <input type="checkbox" class="on-change-filter" id="categoryOrganizational" checked/><label for="categoryOrganizational">Järjestölliset aloitteet</label>
+        </div>
+    </div>  
+    <br>
+    <div class="row">
+        <div class="column">
+            <div id="aiheet">
+                <label>Aihe</label>
+                <div>
+                    <input type='checkbox' id="allTopics" checked />
+                    <label>Kaikki</label>
+                </div>
+
+            </div>
+        </div>
+        <div class="column">
+            <div>
+                <label>Puoluekokouksen päätös</label><a class="collapse-category" id="toggle-decision-categories" >[avaa]</a>
+            </div>
+            <div id="instructions">
+                <br>
+                <ul>
+                    <li><a href="/fi/page/puoluekokousaloitteet-ohje/" target="_blank">Käyttöohje</a></li>
+                </ul>
+            </div>
+            
+            <div id="decision-categories-container" hidden>
+            <div>
+                <input type="checkbox" class="on-change-filter" id="allDecisions" checked/><label for="allDecisions">Kaikki</label>
+            </div>
+            <div id="decision-categories">
+            <div>
+                <input type="checkbox" class="on-change-filter" id="decision-1" checked/><label for="decision-1">1 - Hyväksytty</label>
+            </div>
+            <div>
+                <input type="checkbox" class="on-change-filter" id="decision-2" checked/><label for="decision-2">2 - Hyväksytty osittain tai muuteltuna</label>
+            </div>
+            <div>
+                <input type="checkbox" class="on-change-filter" id="decision-3" checked/><label for="decision-3">3 - Hyväksytään ja puoluekokous kehottaa</label>
+            </div>
+            <div>
+                <input type="checkbox" class="on-change-filter" id="decision-4" checked/><label for="decision-4">4 - Aloite on jo olemassaolevien kantojen mukainen ja/tai toteutettu</label>
+            </div>
+            <div>
+                <input type="checkbox" class="on-change-filter" id="decision-5" checked/><label for="decision-5">5 - Puoluekokous tukee, kehottaa, kannustaa ja edellyttää</label>
+            </div>
+            <div>
+                <input type="checkbox" class="on-change-filter" id="decision-6" checked/><label for="decision-6">6 - Hylätty</label>
+            </div>
+            <div>
+                <input type="checkbox" class="on-change-filter" id="decision-7" checked/><label for="decision-7">7 - Puoluekokous hylkää, mutta kehottaa...</label>
+            </div>
+            <div>
+                <input type="checkbox" class="on-change-filter" id="decision-8" checked/><label for="decision-8">8 - Merkitään tiedoksi</label>
+            </div>
+            <div>
+                <input type="checkbox" class="on-change-filter" id="decision-9" checked/><label for="decision-9">9 - Tieto puuttuu</label>
+            </div>
+            </div>
+        </div>
+
+        </div>
+    </div>
+
+
+<br>
+
+
+<div id='aloitteet'></div>
+
+
+<link rel="stylesheet" href="/css/aloitteet.css"/>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="/js/puoluekokousaloitteet.js"></script>

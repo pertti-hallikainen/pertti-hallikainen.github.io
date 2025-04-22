@@ -8,6 +8,14 @@
     background: rgb(0, 88, 9);
     color: #dcb;
   }
+ 
+  li > ul > li::marker{
+    color: white;
+  }
+}
+
+li > ul > li {
+  list-style-type: disc;
 }
 
 .posts-heading{
@@ -19,11 +27,15 @@
   margin-top:50px;
 }
 
-.single h1, .single h2 {
-    margin-top: 40px;
-  }
+h2 {
+  margin-top:5px;
+}
 
-.single h2:first-of-type {
+.single h1, .single h2 {
+  margin-top: 40px;
+}
+
+.single :not(.well)h2:first-of-type {
   margin-top:20px;
 }
 
@@ -35,6 +47,13 @@
 
 */
 
+.navbar-brand::selection {
+  color:Red;
+}
+
+
+
+
 h1, h2, h3 {
   font-weight: 600;
 }
@@ -45,6 +64,10 @@ h1 {
 
 h2 {
   font-size: 40px;
+}
+
+h3 {
+  font-size:30px;
 }
 
 

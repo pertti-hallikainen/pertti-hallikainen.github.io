@@ -1,0 +1,174 @@
+
+ul {
+  padding-left:20px;
+}
+
+a:hover{
+  cursor:pointer;
+}
+
+
+#decision-categories-container label{
+position:relative;
+bottom:1px;
+}
+
+#decision-categories label {
+  zoom:90%;
+}
+
+label{
+  display:inline;
+  position:relative;
+  bottom:1px;
+}
+
+.decision {
+  position:relative;
+  top:-9px;
+  right:-9px;
+  float:right;
+  background-color:#169f28;
+  color: white;
+  width:40px;
+  height:40px;
+  border: 0px solid rgb(151, 151, 151);
+  border-radius:0px 3px 0px 0px;
+  text-align: center;
+  padding:6px;
+}
+
+.decision-4, .decision-8 {
+  background-color: #4d3ec3;
+}
+
+.decision-6, .decision-7 {
+  background-color: #cf3e3e;
+}
+
+.decision-9 {
+  background-color: #818181;
+}
+
+.aloite {
+  padding: 8px;
+  padding-left: 14px;
+  margin-bottom: 11px;
+  margin-top: 11px;
+  border-color:rgb(137, 137, 137);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.topic {
+display:inline-block;
+background-color: rgb(134, 208, 191);
+padding:1px 10px 1px 10px;
+border-radius: 70%;
+margin:8px 3px 2px 3px;
+}
+
+input[type="checkbox"] {
+  margin-right:6px;
+}
+
+.topicFilter.child {
+  margin-left:6%;
+}
+
+.collapse-category {
+  display:inline-block;
+  margin-left: 3%;
+  position:relative;
+  bottom:1px;
+}
+
+.topicFilter {
+  margin-left: 0;
+}
+
+
+table tr th {
+  padding: 5px 11px;
+}
+
+.accepted {
+  background-color: #06d722;
+  color: #fff;
+}
+
+.rejected {
+  background-color: #e70000;
+  color: #fff;
+}
+
+.neutral {
+  background-color: #1700c4;
+  color: #fff;
+}
+
+.undefined {
+  background-color: #818181;
+  color: #fff;
+}
+
+.coming-up-later{
+  background-color: yellow;
+  color:black;
+}
+
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.silent-link {
+  color:black;
+  font-size:17.5px;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  .silent-link {
+    color: white;
+  }
+
+  .topic {
+    color:black;
+  }
+
+  input {
+    color:black;
+  }
+}
+
+input[type='checkbox'] { 
+  zoom:102%;
+}
+
+
+.my-tooltip .tooltip-text {
+  visibility: hidden;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px 5px;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.my-tooltip:hover .tooltip-text {
+  visibility: visible;
+}
