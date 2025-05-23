@@ -7,6 +7,9 @@ a:hover{
   cursor:pointer;
 }
 
+.topic:hover{
+  cursor:pointer;
+}
 
 #decision-categories-container label{
 position:relative;
@@ -30,12 +33,13 @@ label{
   float:right;
   background-color:#169f28;
   color: white;
-  width:40px;
-  height:40px;
-  border: 0px solid rgb(151, 151, 151);
-  border-radius:0px 3px 0px 0px;
+  width:37px;
+  height:37px;
+  border: hidden rgb(137, 137, 137);
+  border-width: 1px 0 0 0;
+  border-radius:0px 5px 0px 0px;
   text-align: center;
-  padding:6px;
+  padding:5px;
 }
 
 .decision-4, .decision-8 {
@@ -65,7 +69,7 @@ label{
 display:inline-block;
 background-color: rgb(134, 208, 191);
 padding:1px 10px 1px 10px;
-border-radius: 70%;
+border-radius: 999px;
 margin:8px 3px 2px 3px;
 }
 

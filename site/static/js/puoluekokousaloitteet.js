@@ -13,6 +13,7 @@ var decisionTextToIndex = {
 }
 
 var yearToRecord = {
+    "2025":"https://drive.google.com/file/d/1jjLAomFp1EBNPj66eJ2IO9aM0X3XhUUu/view?usp=drive_link",
     "2024":"https://drive.google.com/file/d/1v5h4Y_Mbu6t9_C-MgIVG0nx-dahJYZYs/view?usp=drive_link",
     "2023":"https://drive.google.com/file/d/1QJDyjbsYcGfGqf-OEzwGxNhgTnJYGvID/view?usp=drive_link",
     "2022":"https://drive.google.com/file/d/1yciIe4UWU4OkLX9xp1USawIsCKZlvu5O/view?usp=drive_link",
@@ -140,18 +141,18 @@ var aiheetJson = {
             "ohjelmatyö",
             "järjestökulttuuri",
             "yhdistysdemokratia",
+            "vapaaehtoistyö",
             "sääntömuutos",
             "jäsenmaksu",
             "puolue",
             "puoluejohto",
             "puoluehallitus",
-            "valtuuskunta",
+            "puoluevaltuusto",
             "puoluetoimisto",
             "puoluekokous",
             "periaateohjelma",
             "tavoiteohjelma",
             "strategia",
-            "kuntavaaliohjelma",
             "resurssipula"
         ]
     }
@@ -224,9 +225,9 @@ for(var key in aiheetJson.groups){
     var aiheGroup = aiheetJson.groups[key];
     var groupDiv = $("<div class='topicFilter'></div>");
     var headerDiv = $("<div></div>");
-    var groupCheckbox = $(`<input type='checkbox' data-category="${aiheGroup.nimi}" />`);
+    var groupCheckbox = $(`<input type='checkbox' data-category="${aiheGroup.nimi}" id="${aiheGroup.nimi}" />`);
     headerDiv.append(groupCheckbox);
-    var groupLabel = $(`<label>${aiheGroup.nimi}</label>`);
+    var groupLabel = $(`<label for="${aiheGroup.nimi}">${aiheGroup.nimi}</label>`);
     headerDiv.append(groupLabel);
     var closeLink = $(`<a class='collapse-category' data-category="${aiheGroup.nimi}"=>[avaa]</a>`);
     closeLink.data("category", aiheGroup.nimi);
@@ -258,13 +259,13 @@ for(var key in aiheetJson.groups){
     for(var childKey in aiheGroup.aiheet){
         var aihe = aiheGroup.aiheet[childKey];
         var aiheDiv = $("<div class='topicFilter child'></div>");
-        var aiheCheckbox = $(`<input type='checkbox' class="${aihe}" />`);
+        var aiheCheckbox = $(`<input type='checkbox' class="${aihe}" id="${aihe}" />`);
         aiheCheckbox.prop('checked', true);
         aiheCheckbox.on("change", function(){
             filter();
         });
         aiheDiv.append(aiheCheckbox);
-        var aiheLabel = $(`<label>${aihe}</label>`);
+        var aiheLabel = $(`<label for="${aihe}">${aihe}</label>`);
         aiheDiv.append(aiheLabel);
         childrenDiv.append(aiheDiv);
     }
@@ -288,6 +289,17 @@ $("#toggle-decision-categories").on("click", function(){
         $(this).text("[avaa]");
     }
 });
+
+
+$(document).on('click','.topic',function(){ // This way because dynamically added elements are not found by jquery.
+    console.log('hello');
+    var clickedTopic = $(this).text();  
+    var inputs = $(`#aiheet`).find("input");
+    inputs.prop("checked", false );
+    $("."+clickedTopic).prop( "checked", true );
+    filter();
+});
+
 
 $("#allDecisions").on("change", function() {
     var checked = $(this).prop("checked");
@@ -359,6 +371,7 @@ function hasAllAmongSelectedCategories(categories, selectedCategories){
 }
 
 function isAmongSelectedCategories(categories, selectedCategories){
+    if(categories.length==0) return true;
     //console.log(selectedCategories);
     return categories.some(n => selectedCategories.some(h=> h===n));
 }
@@ -386,7 +399,7 @@ function filter(){
 
 
 
-    for(let i=2004; i<=2024; i++){
+    for(let i=2004; i<=2025; i++){
         var s = `.${i}`;
         var aloitteet = $(s);
         var requireAllCategories = $("#requireAllCategories").prop("checked");
@@ -403,10 +416,7 @@ function filter(){
                     $(aloite).hide();
                     return true;
                 }
-
-                
-                
-
+               
                 var categories = getCategoriesFor(aloite);
                 
                 var show = false;

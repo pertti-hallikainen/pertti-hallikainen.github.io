@@ -52,6 +52,11 @@ h2 {
 }
 
 
+p {
+  /*text-indent: 35px;*/
+  line-height:1.6;
+  margin: 2px 0 2px 0;
+}
 
 
 h1, h2, h3 {
@@ -87,4 +92,20 @@ h3 {
 
 pre {
   font-size: 1em;
+}
+
+
+a:hover{
+  cursor:pointer;
+}
+
+.silent-link {
+  color:black;
+  font-size:17.5px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .silent-link {
+    color: white;
+  }
 }

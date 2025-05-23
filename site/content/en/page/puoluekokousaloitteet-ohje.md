@@ -86,7 +86,6 @@ Tässä on muutamia aineiston läpikäymisen myöhäisessä vaiheessa lisättyj�
 - sektorin mukaan lajittelu
     - osassa jätetty tarkoituksella pois, esim 'rikoslaki' on jo sellaisenaan asia joka selkeästi kuuluu eduskunnalle.
 - puolue ja muut puolueorganisaatioon kuuluvat luokat
-    - Otin luokan "puolue" käyttöön kun päätöstekstissä velvoitettiin nimenomaan "puoluetta" tekemään jotakin (esim 2/2021).
 - vapaaehtoistyö
 	- koskee sekä poliittisia että järjestöllisiä aloitteita
 	- sisältyy järjestökulttuuriin ja yhdistysdemokratiaan
@@ -127,7 +126,7 @@ Asiasanoja, jotka on tunnistettu usein toistuviksi, joista voisi tehdä oman luo
 	- nämä eivät kuitenkaan kata kaikkia tekijöitä, miten ihmiset voivat kärsiä epätasa-arvosta, esimerkiksi osallistumisen mahdollisuuksien epätasa-arvo pitkästä matkasta tulevien ja lähellä asuvien välillä, mitä varten on käytössä matkantasausrahasto (15/2016).
 - Opintokeskus Visio
 	- Mainittu muutaman kerran koulutusten ja materiaalien toteuttajana
-- Hallitusohjelma ja eduskuntavaaliohjelma
+- Hallitus-, eduskunta- ja kuntavaaliohjelma
 	- Tavoiteohjelma toimii syötteenä hallitusneuvotteluihin, mutta toisinaan puoluekokous haluaa velvoittaa puoluehallituksen ottamaan jokin asia mukaan hallitusohjelmatavoitteiden valmisteluun. Esim 10/2022.
 
 

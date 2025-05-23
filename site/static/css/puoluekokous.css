@@ -1,0 +1,22 @@
+
+h3 {
+  padding-top:20px;
+}
+
+
+p {
+  /*text-indent: 35px;*/
+  line-height:1.6;
+  margin: 2px 0 2px 0;
+  padding: 0 80px 0 20px;
+}
+
+p + p {
+  text-indent: 2em;
+  margin: 2px 0 2px 0;
+}
+
+
+li > p {
+  padding:0;
+}

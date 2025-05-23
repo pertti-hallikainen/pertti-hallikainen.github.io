@@ -1,4 +1,14 @@
 # Content
+- id: unfinished-list-of-books
+  translation: "Keskeneräinen lista kirjoista jotka haluan joskus lukea"
+- id: finnish-books
+  translation: "Kotimaista kirjallisuutta"
+- id: movies
+  translation: "Elokuvia"
+- id: tv-series
+  translation: "TV-sarjoja"
+- id: anime
+  translation: "Anime, animaatio ja sarjakuvat"
 - id: dateFormat
   translation: "2.1.2006"
 - id: shortdateFormat

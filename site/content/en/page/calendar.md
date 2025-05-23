@@ -6,27 +6,16 @@ translationKey: 'tapahtumakalenteri'
 ---
 
 
-- 13.4.2025 Election watch party, from 18 onwards, Restaurant Daisy, Kehräsaari
-- Election-cabin open every day until 12.4., between 11-18, Keskustori
+- [IMAGINE2025](https://www.imagine2025.fi/) 27.-28.5.2025
+- [Green Party Convention](https://www.vihreat.fi/puoluekokous-2025/) Hämeenlinnassa 7.-8.6.2025
+- [Manse Pride March](https://www.mansepride.fi/pride-marssi-25/) 14.6.2025
 
 
 ---
 
-## Election dates
-- Advance voting period in Finland 2.-8.4.2025
-- Election day 13.4.2025
+## [Tampere City Council](https://www.tampere.fi/paattajat-ja-paatokset/kaupunginvaltuusto)
 
----
 
-## [City Council](https://www.tampere.fi/paattajat-ja-paatokset/kaupunginvaltuusto)
-
-I'm not yet a member of the council, but I'll try to follow what they have on their agenda leading up to the election.
-
-- monday 27.1.2025  
-- monday 17.2.2025  
-- monday 17.3.2025  
-### After the election
-- monday 14.4.2025  
 - monday 19.5.2025  
 - monday 2.6.2025  
 - monday 16.6.2024  
@@ -42,6 +31,7 @@ I'm not yet a member of the council, but I'll try to follow what they have on th
 
 # Past events
 
+- 13.4.2025 Election watch party, Restaurant Daisy, Kehräsaari
 - 20.3.2025 Green Signposts to the Future - [Live stream](https://www.youtube.com/watch?v=qP6RVdLC8pw)
 - 25.2.2025 [A-klinikkasäätiö](https://a-klinikkasaatio.fi/) meeting
 - 11.2.2025 [Kumppanuustalo Artteli](https://www.artteli.fi/) meeting
