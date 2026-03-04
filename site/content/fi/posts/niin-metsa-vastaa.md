@@ -1,7 +1,7 @@
 +++
-title = 'Niin metsä vastaa'
+title = 'Rakennusteollisuus RT:n ja Tampereen Kauppakamarin kuntavaalitilaisuus ja Elokapinan keskustelutilaisuus metsistä'
 subtitle = ''
-summary = 'kuin sinne huutaa'
+summary = ' '
 tags = ['politik', 'talous', 'tampere', 'ilmastonmuutos', 'maahanmuutto', 'turvallisuus']
 weight = 20
 date = 2025-03-19T12:18:51+02:00
@@ -13,7 +13,6 @@ draft = false
 Kävin tänään kahdessa eri poliittisessa tapahtumassa, jotka molemmat olivat omilla tavoillaan vaikuttavia. Ensimmäinen oli Rakennusteollisuuden ja Tampereen Kauppakamarin kuntavaalitilaisuus ja toinen oli Elokapinan järjestämä Niin metsä vastaa-keskustelutilaisuus metsistä, niiden suojelusta ja vaikutuksista ihmisiin.
 
 ### Rakennusteollisuus RT:n ja Tampereen Kauppakamarin kuntavaalitilaisuus
-
 
 
 Tuo ensimmäinen lobbaustilaisuus järjestettiin Tammelan Stadionin tiloissa. Stadion on valmistunut vuonna 2024 ja on todellakin upotettu kortteliin niin että sen ympäri on helppo kävellä. Stadionin kivijalassa on parkkihalli ja liiketiloja. Tämä stadion ja muu Tammelan alueen kehittäminen mainittiin hyvänä esimerkkinä onnistuneesta rakennushankkeesta, vaikka se on vienytkin aikaa. Stadionin suunnittelu on mainittu jo vuoden 2013 pormestariohjelmassa.
@@ -34,7 +33,7 @@ Kun Puttoselta kysyttiin mielipidettä teoreettisesta kasvun jälkeisestä yhtei
 
 ---
 
-### Niin metsä vastaa
+### Elokapinan keskustelutilaisuus metsistä ja niiden käytöstä
 
 Lyhyen kävelymatkan päässä oli klo 18 alkanut Elokapinan keskustelutapahtuma metsistä. En ehtinyt paikalle tapahtuman alusta asti, mutta onnekseni mahduin istumaan. Ravintola Telakan yläkerta oli aivan täynnnä, meitä oli ehkä joku 50-70 henkeä. Ehdin nähdä alustukset otsikoilla "muistisairaan metsä - runollisia näkökulmia", "Eeva Kilven metsät" ja "metsät ja mielenterveys - näkökulmia väestötutkimuksesta". Näissä esityksissä tuli hyvin esiin mikä merkitys metsillä ihmisille on.
 

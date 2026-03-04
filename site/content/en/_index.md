@@ -4,5 +4,3 @@ Check out my new [search tool](/page/puoluekokousaloitteet/) for exploring motio
 
 Relevant bits:
 - [About me](/page/about/)
-- [Campaign](/page/municipal-election-2025/)
-- [Calendar](/page/calendar/)

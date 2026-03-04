@@ -1,0 +1,39 @@
+
+h2 {
+  padding-bottom:0.1em;
+}
+
+
+
+
+article ul{
+  padding-bottom:0.6em;
+}
+
+article ul:last-of-type {
+  padding-bottom:2em;
+}
+
+article li {
+  font-size:20px;
+  line-height:1.8;
+}
+
+
+p {
+  line-height:2;
+  margin: 2px 0 2px 0;
+  font-size:20px;
+  padding-bottom:0.5em;
+}
+
+
+p + p {
+  text-indent: 2em;
+  margin: 6px 0 6px 0
+}
+
+
+p:last-child {
+  padding-bottom:5em;
+}

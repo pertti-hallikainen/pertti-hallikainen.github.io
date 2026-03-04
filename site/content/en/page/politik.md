@@ -13,17 +13,17 @@ translationKey: 'politik'
 
 ### Participation in elections
 
-- [municipal election 2025](../kuntavaalit-2025/) (Tampere)
+- [municipal election 2025](../municipal-election-2025/) (Tampere)
 - municipal election 2012 (Jyväskylä)
 
 ### Membership in Green organizations
 
 - Tampereen vihreät, 2022-
-    - deputy board member 2025
+    - board member 2025 (substitute)
 - Pirkanmaan tieteen ja teknologian vihreät, 2025-
 
 and earlier
-- Kallion seudun vihreät, some time after 2016-
-- Jyväskylän vihreät, 2011-
+- Kallion seudun vihreät, 2016-2021
+- Jyväskylän vihreät, 2011-2015
 
 

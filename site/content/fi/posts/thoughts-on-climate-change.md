@@ -1,5 +1,5 @@
 +++
-title = 'Tömäköitä ajatuksia ilmastonmuutoksesta'
+title = 'Ajatuksia ilmastonmuutoksesta'
 # subtitle = 'Including bonus track: why you should care'
 summary = 'Ilmastohätätilan julistaminen olisi rehellinen ja tulevaisuuttamme kunnioittava teko.'
 tags = ['politik', 'ilmastonmuutos']
@@ -11,21 +11,18 @@ draft = false
 
 
 
-## lajittelemattomia
-
-
 Ilmastohätätilan julistaminen olisi rehellinen ja tulevaisuuttamme kunnioittava teko.
 
 Jos et pidä pakolaisista, sinun pitäisi toimia ilmastonmuutosta vastaan.
 
-On epätodennäköistä että ongelma tulisi korjatuksi, jos siltä sulkee silmänsä.
+On epätodennäköistä, että ongelma tulisi korjatuksi, jos siltä sulkee silmänsä.
 
 Ihmisten yksilöllinen vastuullisuus ei riitä. Tarvitsemme kollektiivista toimintaa.
 
 
 ## Keskiarvoista
 
-Kahden asteen lämpeneminen on vain keskiarvo. Todellinen lämpeneminen vaihtelee maantieteellisesti, jossain lämpenee vähemmän, jossain enemmän. Suomessa todennäköisesti lämpenee enemmän kuin kaksi astetta.
+Kahden asteen lämpeneminen on vain keskiarvo. Todellinen lämpeneminen vaihtelee maantieteellisesti, jossain lämpenee vähemmän, jossain enemmän. Suomessa todennäköisesti lämpenee keskiarvoa enemmän, ellei Atlantin merivirta lopeta lämpimän ilman kuljettamista tänne.
 
 ---
 

@@ -73,7 +73,7 @@ Aloitteiden lisäksi puoluekokouksessa käsitellään sääntömuutoksia ja tehd
 
 
 ### Termistöstä
-Olen luokitellut viittaukset 'poliittiseen ohjelmaan' nimellä 'tavoiteohjelma'. Erikseen on 'periaateohjelma'. Aloitteessa 19/2025 on ehdotettu poliittisen ohjelman nimeämistä uudelleen puolueohjelmaksi. Vihreät ohjelmat löytyvät osoitteesta {{< rawhtml >}}<a href="https://www.vihreat.fi/ohjelmat/" target="_blank">https://www.vihreat.fi/ohjelmat/</a>{{< /rawhtml >}}
+Olen luokitellut viittaukset 'poliittiseen ohjelmaan' nimellä 'tavoiteohjelma'. Erikseen on 'periaateohjelma'. Aloitteessa 19/2025 on ehdotettu poliittisen ohjelman nimeämistä uudelleen puolueohjelmaksi. Vihreät ohjelmat löytyvät osoitteesta {{< rawhtml >}}<a href="https://www.vihreat.fi/ohjelmat/" target="_blank">https://www.vihreat.fi/ohjelmat/</a>{{< /rawhtml >}}.
 
 Jako poliittisiin ja järjestöllisiin aloitteisiin on tehty puoluetoimiston jaottelun perusteella. Vanhimmissa puoluekokouksissa ei ole käytetty tätä jaottelua, mutta olen tehnyt sen tähän hakuun jotta jokainen aloite kuuluisi jompaan kumpaan joukkoon. Puoluetoimiston tai -hallituksen tekemä jako (vai olisiko peräti aloitteen laatijan valinta) ei ole aivan täydellinen, sillä osassa järjestöllisistä aloitteista ehdotetaan uusien ohjelmien tekemistä, jolloin niiden mielestäni olisi pitänyt kuulua poliittisten aloitteiden joukkoon (esim 24/2023 ja 25/2023).
 

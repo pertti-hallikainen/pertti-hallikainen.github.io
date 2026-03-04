@@ -1,7 +1,7 @@
 +++
-title = 'Kiista yhteismaista - muistiinpanot'
-subtitle = 'Garrett Hardin ja selviytymisen politiikka'
-summary = 'Tykkäsin. Kirja sisälsi sen mitä kannessa luvattiin.'
+title = 'Kiista yhteismaista'
+subtitle = ''
+summary = 'Garrett Hardin ja selviytymisen politiikka - muistiinpanot/kirja-arvio'
 tags = ['kirja-arvostelu', 'peliteoria']
 date = 2024-09-24T12:18:51+02:00
 draft = false
@@ -13,7 +13,7 @@ draft = false
 Tykkäsin. Kirja sisälsi sen mitä kannessa luvattiin.
 
 ## Yhteismaan käsite
-Useita toimijoita jotka hyödyntävät yhteistä uusiutuvaa (tai uusinnettavaa) mutta rajallista resurssia. Ylilaiduntaminen heikentää resurssin käytettävyyttä, eli pidemmällä aikavälillä olisi kaikille parempi jos ylilaiduntamista ei tapahtuisi. Kenenkään yksittäisen toimijan edun mukaista ei kuitenkaan ole oman laiduntamisensa vähentäminen, joten ilman yhteistä sääntelyä seurauksena on tragedia.
+Useita toimijoita, jotka hyödyntävät yhteistä uusiutuvaa (tai uusinnettavaa), mutta rajallista resurssia. Ylilaiduntaminen heikentää resurssin käytettävyyttä, eli pidemmällä aikavälillä olisi resurssin käyttäjille parempi jos ylilaiduntamista ei tapahtuisi. Kenenkään yksittäisen toimijan edun mukaista ei kuitenkaan ole oman laiduntamisensa vähentäminen, joten ilman yhteistä sääntelyä seurauksena on tragedia.
 
 ## Esimerkkejä yhteislaitumista
 - kirjaimellinen yhteislaidun, jossa kuka tahansa voi pitää karjaansa
@@ -25,7 +25,7 @@ Useita toimijoita jotka hyödyntävät yhteistä uusiutuvaa (tai uusinnettavaa) 
 - sosiaalinen media
 
 ## Yksityistäminen ratkaisuna
-Olettaa että yksityinen toimija haluaa pitää maan hyvässä kunnossa, eikä esimerkiksi ota siitä niin paljon ja niin nopeasti kuin vain suinkin pystyy. Tässä tulee mukaan ajallinen komponentti, pitää ajatella myös jälkipolvien oikeuksia.
+Olettaa, että yksityinen toimija haluaa pitää maan hyvässä kunnossa, eikä esimerkiksi ota siitä niin paljon ja niin nopeasti kuin vain suinkin pystyy. Tässä tulee mukaan ajallinen komponentti, jos yksityinen toimija on hakemassa pikavoittoja, ei hänellä välttämättä ole aikomusta huolehtia ns 'tulevien sukupolvien' eduista.
 
 
 ## Lempilainaus

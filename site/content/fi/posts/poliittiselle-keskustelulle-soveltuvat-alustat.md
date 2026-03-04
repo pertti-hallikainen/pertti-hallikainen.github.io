@@ -1,7 +1,7 @@
 +++
 title = 'Määräävätkö alustat poliittisen keskustelun laadun?'
 subtitle = ''
-summary = 'Vastaus on kyllä.'
+summary = 'Kyllä.'
 tags = ['politik', 'vihreät', 'media']
 weight = 10
 date = 2025-04-07T12:18:51+02:00

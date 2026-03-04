@@ -1,5 +1,5 @@
 +++
-title = 'Kuntavaalit 2025 Analyysi ja Loppuraportti'
+title = 'Kuntavaalit 2025'
 subtitle = ''
 summary = 'Tampereen Vihreille yksi paikka lisää.'
 tags = ['politik', 'tampere', 'vihreät']
